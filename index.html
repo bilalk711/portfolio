@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bilal Kazmi</title>
+  <link rel="stylesheet" href="style.css"/>
+ 
+</head>
+<body>
+<div class="mainWrapper">
+<div class="mainHeader">
+<h1>
+  Bilal Kazmi 
+</h1>
+<h2>
+  Frontend Web Developer
+</h2>
+</div>
+  <nav class="menuBar">
+    <ul class="menuList">
+      <li class="menuItems">
+        <a href="#aboutContent">
+          About
+        </a>
+      </li>
+      <li class="menuItems">
+        <a href="#portfolioContent">
+          Portfolio
+        </a>
+      </li>
+      <li class="menuItems">
+        <a href="#contactContent">
+          Contact<br/>
+        </a>
+      </li>
+    </ul>
+  </nav>
+  <div class="pageContent">
+     <p class="homeContent">
+       To every success, there is a story to tell
+     </p>
+     <div id="aboutContent">
+    <div id="box" style="margin-top: 20%;
+        cursor: pointer;
+        display: inline-block;
+        width: 10em;
+        height: 10em;
+        border-radius: 50%;
+        text-align: center;
+        padding: 0;
+        background: linear-gradient(rgba(2, 2, 3, 0.835), transparent);
+        box-shadow: 1px 1px 11px 1px black;
+        transition: all 0.5s ease-in-out;
+        " onclick="showPara(this)">
+   
+          <br/><br/><br/><br/>About Me
+        </div>
+     <h2 id="pageHeader" style="display: none;">
+       About
+     </h2>
+     <p id="Para" style="display: none;">
+       I am a frontend web developer.<br/>
+       Blah blah blah...
+     </p>
+
+     </div> 
+  <div id="portfolioContent">
+       <h2 id="pageHeader">
+          Portfolio Images to be displayed..
+       </h2>
+          <div id="row">
+          <div id="column">
+               <img src="" />
+               
+          </div>
+          <div id="column">
+               <img src="" />
+          </div>
+          </div> 
+  </div>
+  <div id="contactContent">
+    <h2 id="pageHeader">
+      Contact Me
+    </h2>
+     Contact Information here..
+  </div>
+  <div id="modal" style="width:100%;">
+    <img id="modalImage"/><br/><br/>
+    <span id="close" onclick="closeModal()">&times;</span>
+    <span id="description"> </span>
+</div>
+  </div>
+  <script>
+      var modal=document.getElementById("modal");
+      function showModal(self){
+        var modalImage=document.getElementById("modalImage");
+        modal.style.display="block";
+        modalImage.src=self.src; 
+        var description=document.getElementById("description");
+        description.innerHTML=self.alt;
+      }
+      function closeModal(){
+        modal.style.display="none";
+      }
+  </script>
+</body>
+<script type="text/javascript" src="script.js">
+</script>
+</html>
