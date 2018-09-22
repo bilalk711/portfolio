@@ -1,7 +1,8 @@
 # Portfolio Website
 
 # Description 
-This is my portfolio website. It is bootstrapped and responsive. I am a PHP web developer so you won't find a really interactive UI/UX model. Let it for the frontend developers. 
+
+This is my portfolio website. It is bootstrapped and responsive. I am a PHP web developer so you won't find a really good UI/UX model. Let it for the frontend developers. 
 
 # Technologies Involved
 
