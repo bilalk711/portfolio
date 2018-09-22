@@ -37,6 +37,9 @@ body{
   margin-top: 40px;
   width: 100%;
   height: auto;
+  -webkit-display: inline-block;
+  display:inline-block;
+  -moz-display:inline-block;
   display: flow-root;
   background: url(lonehome.jpg) no-repeat;
   background-size: cover;
