@@ -1,0 +1,23 @@
+Status: Unsent local draft
+To: [No public email: application route below]
+Subject: HN — Platform Engineer — Bilal Kazmi
+Source: https://news.ycombinator.com/item?id=49922693
+Application: https://planlab.ai/jobs
+Review: London onsite; visa sponsorship stated No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed. Conditional prospect: user has not confirmed relocation willingness or work authorization. Draft does not assert either.
+
+Hi Planlab.ai hiring team,
+
+I saw your October platform engineering opening for AI coworkers in project scheduling. The mixture of shared components, agents, infrastructure, and internal tooling interests me.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At JALTech, I built an internal RAG knowledge assistant and delivered React/Node PWAs serving more than 1,000 daily users. My background includes Python, SQL, AWS, and OpenAI/Gemini integrations, with responsibility for getting these capabilities into working applications.
+
+I would be interested in applying my backend and AI application experience, and learning more about the role's algorithmic requirements and London relocation process.
+
+Could we have an initial conversation to establish whether my experience and location could fit this opening? I can share my resume and discuss the project in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi

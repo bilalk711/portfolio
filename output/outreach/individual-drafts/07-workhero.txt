@@ -1,0 +1,23 @@
+Status: Unsent local draft
+To: [No public email: application route below]
+Subject: HN — Senior Software Engineer, AI Full Stack — Bilal Kazmi
+Source: https://news.ycombinator.com/item?id=49524167
+Application: https://www.workhero.pro/careers?ashby_jid=89aac721-3aa3-4aeb-b20d-8891b1a84a61
+Review: International engineering candidates; 11am–3pm ET overlap No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed. September hiring signal: reconfirm the vacancy before applying. A visible post is not a guarantee that the role remains unfilled.
+
+Hi WorkHero hiring team,
+
+Your September AI Full Stack opening stood out because WorkHero is turning everyday back-office work into useful software for contractors.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At JALTech, I integrated Gemini Vision into receipt workflows processing roughly 1,000 receipts a day. The change reduced review time from about ten minutes to one minute. My work covered the application and backend pipeline, including concurrency and transaction handling, rather than just a model demo.
+
+I would be interested in bringing that same focus on measurable time savings to your React experiences, Node services, and AI-backed operational workflows.
+
+Would you be open to a short conversation about the role? I can share my resume and walk through the relevant work, including the technical tradeoffs.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi

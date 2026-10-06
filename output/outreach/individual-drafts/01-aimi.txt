@@ -1,0 +1,23 @@
+Status: Sent via Gmail — 2026-10-05 — verified in Sent mail
+To: vishnu.swaroop@aimi.technology
+Subject: HN — Full Stack AI Engineer — Bilal Kazmi
+Source: https://news.ycombinator.com/item?id=49552714
+Application: https://join.com/companies/aimitechnology/16658631-agentic-ai-engineer
+Review: Worldwide remote stated September hiring signal: reconfirm the vacancy before applying. A visible post is not a guarantee that the role remains unfilled.
+
+Hi Vishnu,
+
+Your hiring post caught my attention because AiMi needs engineers who can connect a React interface, Node services, and reliable AI workflows in production.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At JALTech, I built an internal RAG knowledge assistant and delivered React/Node PWAs serving more than 1,000 daily users. My background includes Python, SQL, AWS, and OpenAI/Gemini integrations, with responsibility for getting these capabilities into working applications.
+
+I would be interested in bringing that experience to your agent pipeline and the interfaces operators use to understand its results.
+
+Would you be open to a short conversation about the role? I can share my resume and walk through the relevant work, including the technical tradeoffs.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi

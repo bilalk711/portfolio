@@ -1,0 +1,23 @@
+Status: Unsent local draft
+To: [No public email: application route below]
+Subject: HN — Software Engineer — product / AI applications — Bilal Kazmi
+Source: https://news.ycombinator.com/item?id=49926213
+Application: https://tandemhealth.ai/about/careers
+Review: Stockholm onsite; sponsorship unconfirmed No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed. Post publishes a questions-only contact and asks not to send applications there. Application route is used instead. Conditional prospect: user has not confirmed relocation willingness or work authorization. Draft does not assert either.
+
+Hi Tandem Health hiring team,
+
+I saw your October engineering hiring post about reducing clinical administration. The product engineering challenge of turning AI output into a useful workflow is particularly interesting to me.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At JALTech, I integrated Gemini Vision into receipt workflows processing roughly 1,000 receipts a day. The change reduced review time from about ten minutes to one minute. My work covered the application and backend pipeline, including concurrency and transaction handling, rather than just a model demo.
+
+I would be interested in a product or AI application role, while being clear that my background is operational software rather than clinical AI research. Could you clarify the Stockholm relocation requirements?
+
+Could we have an initial conversation to establish whether my experience and location could fit this opening? I can share my resume and discuss the project in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi

@@ -1,0 +1,21 @@
+{
+  "referenceSize": {
+    "width": 1672,
+    "height": 941
+  },
+  "changedPixels": 8382,
+  "outsideCapChanges": 0,
+  "changedBounds": {
+    "left": 1184,
+    "top": 76,
+    "right": 1314,
+    "bottom": 198
+  },
+  "originalPixelsPreservedOutsideCap": "100%",
+  "browserCapture": {
+    "format": "jpeg",
+    "width": 1671,
+    "height": 941
+  },
+  "captureNote": "The in-app browser exports a lossy JPEG and rounds the fractional viewport to 1671 pixels. It is visual comparison evidence, not a lossless pixel equality assertion."
+}

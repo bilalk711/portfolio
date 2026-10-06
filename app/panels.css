@@ -1,0 +1,39 @@
+.portfolio-dialog { width: min(660px, calc(100vw - 32px)); max-height: calc(100svh - 48px); padding: 0; border: 1px solid #4b4b4b; border-radius: 20px; background: #121212; color: #f5f5f5; box-shadow: 0 30px 100px #0008; overflow: auto; }
+.portfolio-dialog::backdrop { background: rgb(0 0 0 / .55); backdrop-filter: blur(14px); }
+.panel-content { padding: 60px 52px 46px; position: relative; }
+.close-panel { position: absolute; top: 19px; right: 19px; display: grid; place-items: center; width: 34px; height: 34px; border: 1px solid #484848; border-radius: 50%; background: transparent; }
+.eyebrow { font-size: 10px; letter-spacing: 2.5px; line-height: 1.8; color: #ccc; }
+.panel-content h2 { font-size: clamp(36px, 4.5vw, 54px); letter-spacing: -2px; font-weight: 600; line-height: 1.06; margin: 28px 0; }
+.panel-intro { font-size: 20px; line-height: 1.6; color: #ddd; }
+.panel-body { margin: 24px 0 34px; font-size: 16px; line-height: 1.8; color: #aaa; }
+.panel-cta { display: inline-flex; align-items: center; gap: 28px; border-radius: 100px; padding: 17px 24px; background: #f5f5f5; color: #111; font-size: 14px; font-weight: 600; margin-top: 20px; }
+.panel-cta svg { width: 20px; height: 20px; }
+.text-button { display: flex; gap: 15px; align-items: center; padding: 0 0 6px; margin-top: 29px; background: transparent; border: 0; border-bottom: 1px solid #666; font-size: 14px; }
+.interest-tabs { display: flex; gap: 10px; padding-top: 18px; margin-bottom: 25px; }
+.interest-tabs button { border: 1px solid #444; background: transparent; font-size: 10px; letter-spacing: 1.5px; padding: 11px 16px; border-radius: 100px; }
+.interest-tabs button[aria-selected="true"] { color: #111; background: #eee; border-color: #eee; }
+.interest-content { border-top: 1px solid #444; border-bottom: 1px solid #444; padding: 25px 0; min-height: 132px; }
+.interest-content h3 { font-size: 22px; font-weight: 500; margin: 0 0 14px; letter-spacing: -.5px; }
+.interest-content p { margin: 0; color: #bbb; font-size: 15px; line-height: 1.7; }
+.email-row { display: flex; align-items: center; gap: 15px; margin-top: 29px; font-size: 13px; color: #aaa; }
+.email-row button { background: transparent; border: 0; padding: 8px; display: grid; place-items: center; }
+.stack-tags { display:flex; flex-wrap:wrap; gap:9px; margin-bottom:18px; }
+.stack-tags span { padding:8px 12px; border:1px solid #444; border-radius:100px; font-size:11px; color:#ccc; }
+.project-filters { display:flex; gap:9px; margin:22px 0; }
+.project-filters button { border:1px solid #555; background:transparent; border-radius:100px; padding:8px 19px; font-size:12px; }
+.project-filters button[aria-pressed="true"] { background:#eee; color:#111; border-color:#eee; }
+.project-list { display:grid; gap:15px; }
+.project-card { display:block; padding:23px; border:1px solid #454545; border-radius:12px; background:#171717; transform:perspective(800px) rotateX(var(--rx,0deg)) rotateY(var(--ry,0deg)); transition:transform .15s ease-out,border-color .2s,background .2s; }
+.project-card:hover { border-color:#888; background:#1d1d1d; }
+.project-category { display:flex; align-items:center; justify-content:space-between; font-size:9px; letter-spacing:2px; color:#aaa; }
+.project-category svg { width:18px; height:18px; }
+.project-card h3 { font-size:24px; letter-spacing:-.5px; font-weight:500; margin:20px 0 10px; }
+.project-card p { font-size:14px; line-height:1.65; color:#bbb; margin:0 0 22px; }
+.project-link { display:flex; gap:16px; align-items:center; font-size:12px; }
+@media (max-width: 700px) {
+  .panel-content { padding: 57px 26px 32px; }
+  .panel-content h2 { letter-spacing: -1.4px; }
+  .panel-intro { font-size: 17px; }
+  .interest-tabs { gap: 7px; }
+  .interest-tabs button { font-size: 9px; padding: 10px 11px; letter-spacing: 1px; }
+}

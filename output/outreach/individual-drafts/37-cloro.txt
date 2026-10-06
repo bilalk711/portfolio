@@ -1,0 +1,23 @@
+Status: Unsent local draft
+To: [No public email: application route below]
+Subject: HN — Founding Engineer — Bilal Kazmi
+Source: https://news.ycombinator.com/item?id=49532259
+Application: https://cloro.dev/careers/founding-engineer/
+Review: Remote EU time zones; UTC+5 compatibility must be confirmed No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed. September hiring signal: reconfirm the vacancy before applying. A visible post is not a guarantee that the role remains unfilled.
+
+Hi cloro hiring team,
+
+Your September Founding Engineer post caught my attention because cloro turns multiple search and AI providers into consistent structured results.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At JALTech, I integrated Gemini Vision into receipt workflows processing roughly 1,000 receipts a day. The change reduced review time from about ten minutes to one minute. My work covered the application and backend pipeline, including concurrency and transaction handling, rather than just a model demo.
+
+I would be interested in applying API integration and production pipeline experience to that backend, while discussing the collection infrastructure and EU hours you require.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi

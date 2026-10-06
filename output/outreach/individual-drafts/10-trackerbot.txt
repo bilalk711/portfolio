@@ -1,0 +1,23 @@
+Status: Sent via Gmail — 2026-10-05 — verified in Sent mail
+To: dobrev.d10@gmail.com
+Subject: HN — Full-Stack Developer, Node.js — Bilal Kazmi
+Source: https://news.ycombinator.com/item?id=49926228
+Application: https://news.ycombinator.com/item?id=49926228
+Review: Fully remote; country eligibility unconfirmed 
+
+Hi Trackerbot team,
+
+Your October hiring post for a Node.js full-stack developer caught my attention. A small team owning order tracking and marketplace integrations is a good match for my production SaaS background.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At Dubicars, I built React seller subscription, onboarding, payment, and multi-step car-listing workflows integrated with a Laravel backend. I also worked on responsiveness, Core Web Vitals, and build size. That gave me experience improving a live marketplace across both product usability and integration details.
+
+I would be interested in taking features from customer need through the Node backend, database, and user interface.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi

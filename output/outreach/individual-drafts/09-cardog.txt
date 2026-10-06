@@ -1,0 +1,23 @@
+Status: Sent via Gmail — 2026-10-05 — verified in Sent mail
+To: careers@cardog.app
+Subject: HN — Founding Engineer, Dealer Platform / Design Engineer — Bilal Kazmi
+Source: https://news.ycombinator.com/item?id=49926872
+Application: https://cardog.app/careers
+Review: Role-dependent remote; Pakistan eligibility unconfirmed 
+
+Hi Cardog team,
+
+I saw your October openings for the dealer platform and React/Next.js design engineering. Having built car marketplace workflows, I was particularly interested in Cardog's vehicle data products.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At Dubicars, I built React seller subscription, onboarding, payment, and multi-step car-listing workflows integrated with a Laravel backend. I also worked on responsiveness, Core Web Vitals, and build size. That gave me experience improving a live marketplace across both product usability and integration details.
+
+I would like to discuss how my automotive product experience could help turn dense vehicle information into a dependable dealer-facing experience.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi

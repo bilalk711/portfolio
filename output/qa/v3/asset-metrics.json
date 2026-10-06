@@ -1,0 +1,32 @@
+{
+  "output": {
+    "path": "public/assets/portfolio-hero-v2-4k.png",
+    "width": 3840,
+    "height": 2160,
+    "format": "png"
+  },
+  "generatorSource": {
+    "path": "output/imagegen/portfolio-v2-background-original.png",
+    "width": 1672,
+    "height": 941
+  },
+  "resolutionMethod": "Built-in image generator produced 1672 x 941. Exported to 3840 x 2160 using Lanczos3 resampling; not native 4K generation.",
+  "browserCapture": {
+    "path": "output/qa/v3/hero-final.jpg",
+    "width": 1904,
+    "height": 1080,
+    "format": "jpeg"
+  },
+  "optimizedWebAsset": {
+    "path": "public/assets/portfolio-hero-v2-4k.webp",
+    "width": 3840,
+    "height": 2160
+  },
+  "approvedDifferences": [
+    "Resume-based client introduction",
+    "Five-second circuit reveal",
+    "Matching pointer cursor",
+    "Four inline case studies",
+    "Ambient projected geometry"
+  ]
+}

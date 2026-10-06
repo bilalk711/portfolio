@@ -1,0 +1,23 @@
+Status: Unsent local draft
+To: [No public email: application route below]
+Subject: HN — AI Harness Engineer — Bilal Kazmi
+Source: https://news.ycombinator.com/item?id=49924581
+Application: https://careers.tether.io/o/ai-harness-engineer-100-remote-worldwide
+Review: Worldwide remote stated No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed.
+
+Hi Tether hiring team,
+
+I saw your October Hacker News post for an AI Harness Engineer. The combination of TypeScript, local inference, and practical AI tooling is closely aligned with the work I enjoy.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). I built CloneVoicePrompt, a live voice-generation SaaS using Next.js, Node, MongoDB, Redis/BullMQ, and GPU inference workers. By optimizing Qwen3-TTS with CUDA graphs and chunked generation, I reduced GPU cost for 60 minutes of audio from about $0.50 to $0.09. You can see the product at https://clonevoiceprompt.online.
+
+I would like to discuss how my inference and full-stack product experience could contribute to QVAC, while learning more about the P2P requirements.
+
+Would you be open to a short conversation about the role? I can share my resume and walk through the relevant work, including the technical tradeoffs.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi

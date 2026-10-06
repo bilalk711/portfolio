@@ -1,0 +1,23 @@
+Status: Unsent local draft
+To: [No public email: application route below]
+Subject: HN — Software Engineer, AI × Healthcare — Bilal Kazmi
+Source: https://news.ycombinator.com/item?id=49528637
+Application: https://deya.health/careers/
+Review: NYC hybrid or remote; country eligibility unconfirmed No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed. September hiring signal: reconfirm the vacancy before applying. A visible post is not a guarantee that the role remains unfilled.
+
+Hi Deya hiring team,
+
+Your September software engineering post stood out because Deya needs product, backend, and AI workflows built together rather than separate prototypes.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At JALTech, I integrated Gemini Vision into receipt workflows processing roughly 1,000 receipts a day. The change reduced review time from about ten minutes to one minute. My work covered the application and backend pipeline, including concurrency and transaction handling, rather than just a model demo.
+
+I would be interested in the Next.js and backend role, bringing practical experience turning image inputs into reliable business workflows without claiming clinical model expertise.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi

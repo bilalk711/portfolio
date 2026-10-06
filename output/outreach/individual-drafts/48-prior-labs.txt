@@ -1,0 +1,23 @@
+Status: Unsent local draft
+To: [No public email: application route below]
+Subject: HN — Full Stack Engineer, ML Platform — Bilal Kazmi
+Source: https://news.ycombinator.com/item?id=49935497
+Application: https://jobs.ashbyhq.com/prior-labs
+Review: Berlin/Freiburg/NYC onsite; sponsorship unconfirmed No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed. Conditional prospect: user has not confirmed relocation willingness or work authorization. Draft does not assert either.
+
+Hi Prior Labs hiring team,
+
+I saw your October Full Stack Engineer, ML Platform opening. React, TypeScript, Python/FastAPI, and PostgreSQL align well with my application engineering background.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). I built CloneVoicePrompt, a live voice-generation SaaS using Next.js, Node, MongoDB, Redis/BullMQ, and GPU inference workers. By optimizing Qwen3-TTS with CUDA graphs and chunked generation, I reduced GPU cost for 60 minutes of audio from about $0.50 to $0.09. You can see the product at https://clonevoiceprompt.online.
+
+I would be interested in the product layer around your models, rather than a foundation-model research role, and would like to discuss the office and sponsorship requirements.
+
+Could we have an initial conversation to establish whether my experience and location could fit this opening? I can share my resume and discuss the project in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi

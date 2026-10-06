@@ -1,0 +1,23 @@
+Status: Unsent local draft
+To: [No public email: application route below]
+Subject: HN — Forward-Deployed Engineer — Bilal Kazmi
+Source: https://news.ycombinator.com/item?id=49530020
+Application: https://www.shovels.ai/careers/forward-deployed-engineer
+Review: Remote stated; country eligibility unconfirmed No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed. September hiring signal: reconfirm the vacancy before applying. A visible post is not a guarantee that the role remains unfilled.
+
+Hi Shovels hiring team,
+
+I saw your September FDE post about building working data products alongside enterprise customers. That combination of client communication and hands-on engineering fits how I have worked.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At Merik, I coordinated a team of three to five developers, reviewed pull requests, and took client work from requirements through deployment. I also built Node REST services on AWS EC2. More recently, I have shipped React/Node applications and AI-backed workflows at JALTech.
+
+I would be interested in taking customer requirements through implementation and feeding what we learn back into your product.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi

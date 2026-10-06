@@ -1,0 +1,23 @@
+Status: Sent via Gmail — 2026-10-05 — verified in Sent mail
+To: joao.pedro@searchatlas.com
+Subject: HN — React/Next.js + AI engineer — suitable opening?
+Source: https://news.ycombinator.com/item?id=49931746
+Application: https://careers.searchatlas.com/
+Review: Anywhere remote; EST working hours; posted PM role is not the target The advertised Product Engineer vacancy is a PM role. This is an engineering-routing inquiry explicitly invited by the poster, not an application claiming PM experience. ATS is preferred.
+
+Hi Joao,
+
+Your October post explicitly invited engineers to ask about a suitable opening even when the Product Engineer/PM title is not their fit. I am reaching out about engineering rather than the PM position.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At JALTech, I built an internal RAG knowledge assistant and delivered React/Node PWAs serving more than 1,000 daily users. My background includes Python, SQL, AWS, and OpenAI/Gemini integrations, with responsibility for getting these capabilities into working applications.
+
+Could you point me toward the engineering opening that best fits React/Next.js, Node, Python, and production AI application work?
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi

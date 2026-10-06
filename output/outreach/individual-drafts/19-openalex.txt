@@ -1,0 +1,23 @@
+Status: Unsent local draft
+To: [No public email: application route below]
+Subject: HN — Software Engineer — Bilal Kazmi
+Source: https://news.ycombinator.com/item?id=49524920
+Application: https://openalex.org/jobs/software-engineer
+Review: Remote stated; country eligibility unconfirmed No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed. September hiring signal: reconfirm the vacancy before applying. A visible post is not a guarantee that the role remains unfilled.
+
+Hi OpenAlex hiring team,
+
+I saw your September backend opening for OpenAlex. Reliable APIs over a large research corpus are interesting to me, especially where they support both people and AI applications.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At JALTech, I built an internal RAG knowledge assistant and delivered React/Node PWAs serving more than 1,000 daily users. My background includes Python, SQL, AWS, and OpenAI/Gemini integrations, with responsibility for getting these capabilities into working applications.
+
+I would be interested in contributing Python APIs and database-backed services; I would also like to understand how much Databricks/PySpark experience is essential from day one.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi

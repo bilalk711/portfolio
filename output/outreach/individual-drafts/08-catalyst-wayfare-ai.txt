@@ -1,0 +1,23 @@
+Status: Sent via Gmail — 2026-10-05 — verified in Sent mail
+To: talent+hn@cwai.co
+Subject: HN — AI Engineer / Agent Builder — Bilal Kazmi
+Source: https://news.ycombinator.com/item?id=49650855
+Application: https://catalystwayfare.ai/jd-builder
+Review: International candidates considered; ET overlap; travel where feasible September hiring signal: reconfirm the vacancy before applying. A visible post is not a guarantee that the role remains unfilled.
+
+Hi Catalyst·Wayfare team,
+
+Your September Agent Builder post describes the kind of work I want to do: production AI systems delivered alongside a client's engineering team.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At JALTech, I built an internal RAG knowledge assistant and delivered React/Node PWAs serving more than 1,000 daily users. My background includes Python, SQL, AWS, and OpenAI/Gemini integrations, with responsibility for getting these capabilities into working applications.
+
+I would be interested in owning a retrieval-backed capability from implementation through deployment and discussing the evaluation standards your current projects require.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi

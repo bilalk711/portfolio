@@ -1,0 +1,36 @@
+From: Bilal Kazmi <bilalkazmi0711@gmail.com>
+To: careers+hn@puma.tech
+Subject: HN =?utf-8?q?=E2=80=94_AI/ML_Engineering_=E2=80=94?= application and
+ inference focus =?utf-8?b?4oCU?= Bilal Kazmi
+X-Unsent: 1
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Hi Yuriy,
+
+Your September post about PumaAI's private local/hybrid AI product caught my =
+attention. The connection between inference performance and a useful user exp=
+erience is work I enjoy.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islam=
+abad, Pakistan (UTC+5). I built CloneVoicePrompt, a live voice-generation Saa=
+S using Next.js, Node, MongoDB, Redis/BullMQ, and GPU inference workers. By o=
+ptimizing Qwen3-TTS with CUDA graphs and chunked generation, I reduced GPU co=
+st for 60 minutes of audio from about $0.50 to $0.09. You can see the product=
+ at https://clonevoiceprompt.online.
+
+I would be interested in application or inference engineering for PumaAI, and=
+ would like to understand which opening best fits a full-stack engineer with =
+hands-on TTS optimization experience.
+
+If my experience fits, could you confirm whether this opportunity can include=
+ an engineer based in Pakistan and what working-hour overlap you need? I can =
+share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi

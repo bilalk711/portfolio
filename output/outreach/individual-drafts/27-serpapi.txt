@@ -1,0 +1,23 @@
+Status: Unsent local draft
+To: [No public email: application route below]
+Subject: HN — Senior Fullstack Engineer — Bilal Kazmi
+Source: https://news.ycombinator.com/item?id=49929200
+Application: https://serpapi.com/careers
+Review: Remote; overseas compensation explicitly mentioned No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed.
+
+Hi SerpApi hiring team,
+
+I saw your October full-stack hiring post and its emphasis on async collaboration and continuous delivery. React and MongoDB are familiar parts of my production background.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At Dubicars, I built React seller subscription, onboarding, payment, and multi-step car-listing workflows integrated with a Laravel backend. I also worked on responsiveness, Core Web Vitals, and build size. That gave me experience improving a live marketplace across both product usability and integration details.
+
+I would be interested in discussing the full-stack work and the expectations for ramping into your Ruby/Rails backend; my primary backend experience is Node and Python.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi

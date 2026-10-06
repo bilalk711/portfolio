@@ -1,0 +1,801 @@
+﻿number,company,role,engagement,category,location,email,source_date,source_url,application_url,contact_basis,verification,notes,status,sent_message_id,subject,body
+1,AiMi,Full Stack AI Engineer,Full-time,Global / international stated,Worldwide remote stated,vishnu.swaroop@aimi.technology,2026-09-03,https://news.ycombinator.com/item?id=49552714,https://join.com/companies/aimitechnology/16658631-agentic-ai-engineer,Published in employer hiring post,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,September hiring signal: reconfirm the vacancy before applying. A visible post is not a guarantee that the role remains unfilled.,Sent via Gmail — 2026-10-05 — verified in Sent mail,1a109c417af4f211,HN — Full Stack AI Engineer — Bilal Kazmi,"Hi Vishnu,
+
+Your hiring post caught my attention because AiMi needs engineers who can connect a React interface, Node services, and reliable AI workflows in production.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At JALTech, I built an internal RAG knowledge assistant and delivered React/Node PWAs serving more than 1,000 daily users. My background includes Python, SQL, AWS, and OpenAI/Gemini integrations, with responsibility for getting these capabilities into working applications.
+
+I would be interested in bringing that experience to your agent pipeline and the interfaces operators use to understand its results.
+
+Would you be open to a short conversation about the role? I can share my resume and walk through the relevant work, including the technical tradeoffs.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+2,Tether,AI Harness Engineer,Full-time,Global / international stated,Worldwide remote stated,,2026-10-01,https://news.ycombinator.com/item?id=49924581,https://careers.tether.io/o/ai-harness-engineer-100-remote-worldwide,Published application route; email not supplied,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed. Official role/careers page also retrieved on 2026-10-05.,No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed.,Unsent local draft,,HN — AI Harness Engineer — Bilal Kazmi,"Hi Tether hiring team,
+
+I saw your October Hacker News post for an AI Harness Engineer. The combination of TypeScript, local inference, and practical AI tooling is closely aligned with the work I enjoy.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). I built CloneVoicePrompt, a live voice-generation SaaS using Next.js, Node, MongoDB, Redis/BullMQ, and GPU inference workers. By optimizing Qwen3-TTS with CUDA graphs and chunked generation, I reduced GPU cost for 60 minutes of audio from about $0.50 to $0.09. You can see the product at https://clonevoiceprompt.online.
+
+I would like to discuss how my inference and full-stack product experience could contribute to QVAC, while learning more about the P2P requirements.
+
+Would you be open to a short conversation about the role? I can share my resume and walk through the relevant work, including the technical tradeoffs.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+3,Reef Technologies,Senior Python Backend Engineer,B2B contract,Global / international stated,EMEA/APAC remote; minimum 30 hours/week,,2026-09-02,https://news.ycombinator.com/item?id=49532957,https://careers.reef.pl/?utm_source=hackernews,Published application route; email not supplied,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed. September hiring signal: reconfirm the vacancy before applying. A visible post is not a guarantee that the role remains unfilled.,Unsent local draft,,HN — Senior Python Backend Engineer — Bilal Kazmi,"Hi Reef Technologies hiring team,
+
+Your September hiring post describes Python backend work around GPU-enabled container infrastructure, with independent ownership on a B2B contract.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). I built CloneVoicePrompt, a live voice-generation SaaS using Next.js, Node, MongoDB, Redis/BullMQ, and GPU inference workers. By optimizing Qwen3-TTS with CUDA graphs and chunked generation, I reduced GPU cost for 60 minutes of audio from about $0.50 to $0.09. You can see the product at https://clonevoiceprompt.online.
+
+My experience connecting inference workers to a production product could be useful where workload performance and dependable backend coordination meet.
+
+Would you be open to a short conversation about the role? I can share my resume and walk through the relevant work, including the technical tradeoffs.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+4,Enveritas,Backend Software Engineer,Full-time,Global / international stated,Worldwide remote stated,,2026-10-01,https://news.ycombinator.com/item?id=49925489,https://www.enveritas.org/jobs/backend-software-eng/,Published application route; email not supplied,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed. Official role/careers page also retrieved on 2026-10-05.,No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed.,Unsent local draft,,HN — Backend Software Engineer — Bilal Kazmi,"Hi Enveritas hiring team,
+
+I saw your October backend opening and read about the team validating farm submissions and making model results understandable to customers.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At JALTech, I integrated Gemini Vision into receipt workflows processing roughly 1,000 receipts a day. The change reduced review time from about ten minutes to one minute. My work covered the application and backend pipeline, including concurrency and transaction handling, rather than just a model demo.
+
+I would be interested in applying my Python, database, and production workflow experience to your data checks and backend services.
+
+Would you be open to a short conversation about the role? I can share my resume and walk through the relevant work, including the technical tradeoffs.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+5,Railway,"Senior Full-Stack Engineer, Product",Full-time,Global / international stated,Worldwide remote stated,,2026-09-01,https://news.ycombinator.com/item?id=49528608,https://railway.com/careers/full-stack,Published application route; email not supplied,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed. Official role/careers page also retrieved on 2026-10-05.,No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed. September hiring signal: reconfirm the vacancy before applying. A visible post is not a guarantee that the role remains unfilled.,Unsent local draft,,"HN — Senior Full-Stack Engineer, Product — Bilal Kazmi","Hi Railway hiring team,
+
+Railway's September hiring post and current product engineering role stood out because they combine usable interfaces with asynchronous infrastructure workflows.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). I built CloneVoicePrompt, a live voice-generation SaaS using Next.js, Node, MongoDB, Redis/BullMQ, and GPU inference workers. By optimizing Qwen3-TTS with CUDA graphs and chunked generation, I reduced GPU cost for 60 minutes of audio from about $0.50 to $0.09. You can see the product at https://clonevoiceprompt.online.
+
+I would be interested in building the dashboard and backend coordination that make complex deployment systems easier for developers to operate.
+
+Would you be open to a short conversation about the role? I can share my resume and walk through the relevant work, including the technical tradeoffs.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+6,This Dot Labs,Senior JavaScript / React Engineer,Full-time,Confirm country / hours,Global remote team; confirm role-specific eligibility,jobs@thisdot.co,2026-09-02,https://news.ycombinator.com/item?id=49530424,https://www.thisdot.co/jobs,Published in employer hiring post,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed. Official role/careers page also retrieved on 2026-10-05.,September hiring signal: reconfirm the vacancy before applying. A visible post is not a guarantee that the role remains unfilled.,Sent via Gmail — 2026-10-05 — verified in Sent mail,1a109c49ec2fa6b2,HN — Senior JavaScript / React Engineer — Bilal Kazmi,"Hi This Dot hiring team,
+
+I found your September Hacker News post and the current Senior JavaScript Engineer opening. Your work modernizing client applications matches my experience delivering React and Node products for remote teams.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At Merik, I coordinated a team of three to five developers, reviewed pull requests, and took client work from requirements through deployment. I also built Node REST services on AWS EC2. More recently, I have shipped React/Node applications and AI-backed workflows at JALTech.
+
+I would be interested in contributing both hands-on implementation and clear client communication to your web and AI application projects.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+7,WorkHero,"Senior Software Engineer, AI Full Stack",Full-time,Global / international stated,International engineering candidates; 11am–3pm ET overlap,,2026-09-01,https://news.ycombinator.com/item?id=49524167,https://www.workhero.pro/careers?ashby_jid=89aac721-3aa3-4aeb-b20d-8891b1a84a61,Published application route; email not supplied,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed. September hiring signal: reconfirm the vacancy before applying. A visible post is not a guarantee that the role remains unfilled.,Unsent local draft,,"HN — Senior Software Engineer, AI Full Stack — Bilal Kazmi","Hi WorkHero hiring team,
+
+Your September AI Full Stack opening stood out because WorkHero is turning everyday back-office work into useful software for contractors.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At JALTech, I integrated Gemini Vision into receipt workflows processing roughly 1,000 receipts a day. The change reduced review time from about ten minutes to one minute. My work covered the application and backend pipeline, including concurrency and transaction handling, rather than just a model demo.
+
+I would be interested in bringing that same focus on measurable time savings to your React experiences, Node services, and AI-backed operational workflows.
+
+Would you be open to a short conversation about the role? I can share my resume and walk through the relevant work, including the technical tradeoffs.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+8,Catalyst·Wayfare AI,AI Engineer / Agent Builder,Contract / full-time / part-time,Confirm country / hours,International candidates considered; ET overlap; travel where feasible,talent+hn@cwai.co,2026-09-10,https://news.ycombinator.com/item?id=49650855,https://catalystwayfare.ai/jd-builder,Published in employer hiring post,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,September hiring signal: reconfirm the vacancy before applying. A visible post is not a guarantee that the role remains unfilled.,Sent via Gmail — 2026-10-05 — verified in Sent mail,1a109c4cb68a5877,HN — AI Engineer / Agent Builder — Bilal Kazmi,"Hi Catalyst·Wayfare team,
+
+Your September Agent Builder post describes the kind of work I want to do: production AI systems delivered alongside a client's engineering team.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At JALTech, I built an internal RAG knowledge assistant and delivered React/Node PWAs serving more than 1,000 daily users. My background includes Python, SQL, AWS, and OpenAI/Gemini integrations, with responsibility for getting these capabilities into working applications.
+
+I would be interested in owning a retrieval-backed capability from implementation through deployment and discussing the evaluation standards your current projects require.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+9,Cardog,"Founding Engineer, Dealer Platform / Design Engineer",Full-time,Confirm country / hours,Role-dependent remote; Pakistan eligibility unconfirmed,careers@cardog.app,2026-10-01,https://news.ycombinator.com/item?id=49926872,https://cardog.app/careers,Published in employer hiring post,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed. Official role/careers page also retrieved on 2026-10-05.,,Sent via Gmail — 2026-10-05 — verified in Sent mail,1a109c4fca778c5e,"HN — Founding Engineer, Dealer Platform / Design Engineer — Bilal Kazmi","Hi Cardog team,
+
+I saw your October openings for the dealer platform and React/Next.js design engineering. Having built car marketplace workflows, I was particularly interested in Cardog's vehicle data products.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At Dubicars, I built React seller subscription, onboarding, payment, and multi-step car-listing workflows integrated with a Laravel backend. I also worked on responsiveness, Core Web Vitals, and build size. That gave me experience improving a live marketplace across both product usability and integration details.
+
+I would like to discuss how my automotive product experience could help turn dense vehicle information into a dependable dealer-facing experience.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+10,Trackerbot,"Full-Stack Developer, Node.js",Full-time,Confirm country / hours,Fully remote; country eligibility unconfirmed,dobrev.d10@gmail.com,2026-10-01,https://news.ycombinator.com/item?id=49926228,https://news.ycombinator.com/item?id=49926228,Published in employer hiring post,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,,Sent via Gmail — 2026-10-05 — verified in Sent mail,1a109c53069bf964,"HN — Full-Stack Developer, Node.js — Bilal Kazmi","Hi Trackerbot team,
+
+Your October hiring post for a Node.js full-stack developer caught my attention. A small team owning order tracking and marketplace integrations is a good match for my production SaaS background.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At Dubicars, I built React seller subscription, onboarding, payment, and multi-step car-listing workflows integrated with a Laravel backend. I also worked on responsiveness, Core Web Vitals, and build size. That gave me experience improving a live marketplace across both product usability and integration details.
+
+I would be interested in taking features from customer need through the Node backend, database, and user interface.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+11,Namespace,Product Engineer / Customer-Facing Software Engineer,Full-time,Confirm country / hours,Remote available; country eligibility unconfirmed,hannah@namespacelabs.com,2026-10-01,https://news.ycombinator.com/item?id=49923784,https://namespace.so/careers,Published in employer hiring post,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,,Sent via Gmail — 2026-10-05 — verified in Sent mail,1a109c56508128e1,HN — Product Engineer / Customer-Facing Software Engineer — Bilal Kazmi,"Hi Hannah,
+
+I found your October hiring post for product and customer-facing software engineers. I enjoy working where infrastructure needs to become a clear, useful product for engineering teams.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At Merik, I coordinated a team of three to five developers, reviewed pull requests, and took client work from requirements through deployment. I also built Node REST services on AWS EC2. More recently, I have shipped React/Node applications and AI-backed workflows at JALTech.
+
+I would be interested in bringing full-stack implementation and client delivery experience to the interfaces and integrations around your infrastructure platform.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+12,Sundream Studio,Software Engineer,Contract / full-time,Confirm country / hours,NYC or remote; country eligibility unconfirmed,stefan@sundream.studio,2026-10-02,https://news.ycombinator.com/item?id=49932275,https://news.ycombinator.com/item?id=49932275,Published in employer hiring post,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,,Sent via Gmail — 2026-10-05 — verified in Sent mail,1a109c5d3732e308,HN — Software Engineer — Bilal Kazmi,"Hi Stefan,
+
+Your October software engineering opening stood out because Sundream connects generation infrastructure to an editing experience people can actually use.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). I built CloneVoicePrompt, a live voice-generation SaaS using Next.js, Node, MongoDB, Redis/BullMQ, and GPU inference workers. By optimizing Qwen3-TTS with CUDA graphs and chunked generation, I reduced GPU cost for 60 minutes of audio from about $0.50 to $0.09. You can see the product at https://clonevoiceprompt.online.
+
+I would be interested in applying my experience with queued GPU workloads and an end-to-end AI product to your generation infrastructure and assistant.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+13,Quill,Fullstack Software Engineer,Full-time,Confirm country / hours,Remote; PT/ET hours preferred; country eligibility unconfirmed,rishi@quill.co,2026-09-01,https://news.ycombinator.com/item?id=49522912,https://quill.co/,Published in employer hiring post,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,September hiring signal: reconfirm the vacancy before applying. A visible post is not a guarantee that the role remains unfilled.,Sent via Gmail — 2026-10-05 — verified in Sent mail,1a109c60339b0c88,HN — Fullstack Software Engineer — Bilal Kazmi,"Hi Rishi,
+
+Your September post about a small team building customer-facing analytics resonated with me. I like roles where customer requirements become working features with a short feedback loop.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At Merik, I coordinated a team of three to five developers, reviewed pull requests, and took client work from requirements through deployment. I also built Node REST services on AWS EC2. More recently, I have shipped React/Node applications and AI-backed workflows at JALTech.
+
+I would be interested in owning useful integrations and product surfaces across the frontend, API, and database.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+14,Descartes — Finale Inventory,Senior Software Engineer,Full-time,Confirm country / hours,Remote; team in Americas/Western Europe; Pakistan eligibility unconfirmed,jforbes@descartes.com,2026-10-01,https://news.ycombinator.com/item?id=49925469,https://news.ycombinator.com/item?id=49925469,Published in employer hiring post,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,,Sent via Gmail — 2026-10-05 — verified in Sent mail,1a109c635aec7a45,HN — Senior Software Engineer — Bilal Kazmi,"Hi Jason,
+
+I saw your October senior engineering opening. Finale's Node.js/React stack and ecommerce integrations are a close match to my experience building customer-facing marketplace products.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At Dubicars, I built React seller subscription, onboarding, payment, and multi-step car-listing workflows integrated with a Laravel backend. I also worked on responsiveness, Core Web Vitals, and build size. That gave me experience improving a live marketplace across both product usability and integration details.
+
+I would be interested in owning integration and interface improvements with the testing and frequent deployment discipline you describe.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+15,Starbridge,Senior Product Engineer,Full-time,Confirm country / hours,NYC or remote; country eligibility unconfirmed,recruiting@starbridge.ai,2026-10-01,https://news.ycombinator.com/item?id=49923756,https://starbridge.ai/careers,Published in employer hiring post,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,,Sent via Gmail — 2026-10-05 — verified in Sent mail,1a109c66b154e65a,HN — Senior Product Engineer — Bilal Kazmi,"Hi Starbridge hiring team,
+
+Your October Senior Product Engineer opening caught my attention because you need React/TypeScript interfaces that make technical data clear to non-technical users.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At Dubicars, I built React seller subscription, onboarding, payment, and multi-step car-listing workflows integrated with a Laravel backend. I also worked on responsiveness, Core Web Vitals, and build size. That gave me experience improving a live marketplace across both product usability and integration details.
+
+I would be interested in helping your product team turn complex sales insights into fast, understandable workflows.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+16,OpenSanctions,Product Engineer,Freelance / employment,Confirm country / hours,Remote; CET ±3 preferred; UTC+5 needs discussion,,2026-10-01,https://news.ycombinator.com/item?id=49922910,https://www.opensanctions.org/docs/company/jobs/2026-09-product-engineer/,Published application route; email not supplied,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,"No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed. Employer requests a form and basic facts, with no cover letter. Keep this draft as preparation; do not email it unsolicited.",Unsent local draft,,HN — Product Engineer — Bilal Kazmi,"Hi OpenSanctions hiring team,
+
+I saw your October product engineering post covering customer signup, billing, analytics, and support tools. That blend of React/Next.js, SQL, and product ownership matches my background.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At Dubicars, I built React seller subscription, onboarding, payment, and multi-step car-listing workflows integrated with a Laravel backend. I also worked on responsiveness, Core Web Vitals, and build size. That gave me experience improving a live marketplace across both product usability and integration details.
+
+I would be interested in improving the commercial product workflows around your screening data, with direct feedback from customers and support.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+17,Search Atlas,Matching engineering opening — routing inquiry,Full-time contractor,Confirm country / hours,Anywhere remote; EST working hours; posted PM role is not the target,joao.pedro@searchatlas.com,2026-10-02,https://news.ycombinator.com/item?id=49931746,https://careers.searchatlas.com/,Published in employer hiring post,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,"The advertised Product Engineer vacancy is a PM role. This is an engineering-routing inquiry explicitly invited by the poster, not an application claiming PM experience. ATS is preferred.",Sent via Gmail — 2026-10-05 — verified in Sent mail,1a109c6ce3a10e44,HN — React/Next.js + AI engineer — suitable opening?,"Hi Joao,
+
+Your October post explicitly invited engineers to ask about a suitable opening even when the Product Engineer/PM title is not their fit. I am reaching out about engineering rather than the PM position.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At JALTech, I built an internal RAG knowledge assistant and delivered React/Node PWAs serving more than 1,000 daily users. My background includes Python, SQL, AWS, and OpenAI/Gemini integrations, with responsibility for getting these capabilities into working applications.
+
+Could you point me toward the engineering opening that best fits React/Next.js, Node, Python, and production AI application work?
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+18,LiveKit,"Product Engineer / Software Engineer, Agents",Full-time,Confirm country / hours,NAMER/EMEA/APJ remote; confirm Pakistan eligibility,,2026-09-04,https://news.ycombinator.com/item?id=49570095,https://jobs.ashbyhq.com/livekit/1757f49e-7e19-4c45-85f7-e4637dff66fb,Published application route; email not supplied,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed. September hiring signal: reconfirm the vacancy before applying. A visible post is not a guarantee that the role remains unfilled.,Unsent local draft,,"HN — Product Engineer / Software Engineer, Agents — Bilal Kazmi","Hi LiveKit hiring team,
+
+Your September post listed remote product and agents engineering roles across APJ. LiveKit's focus on shipping and operating voice agents makes the opportunity particularly interesting to me.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). I built CloneVoicePrompt, a live voice-generation SaaS using Next.js, Node, MongoDB, Redis/BullMQ, and GPU inference workers. By optimizing Qwen3-TTS with CUDA graphs and chunked generation, I reduced GPU cost for 60 minutes of audio from about $0.50 to $0.09. You can see the product at https://clonevoiceprompt.online.
+
+I would like to discuss product or agents engineering where my voice inference and full-stack experience is relevant; my experience is in TTS products rather than WebRTC internals.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+19,OpenAlex,Software Engineer,Full-time,Confirm country / hours,Remote stated; country eligibility unconfirmed,,2026-09-01,https://news.ycombinator.com/item?id=49524920,https://openalex.org/jobs/software-engineer,Published application route; email not supplied,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed. September hiring signal: reconfirm the vacancy before applying. A visible post is not a guarantee that the role remains unfilled.,Unsent local draft,,HN — Software Engineer — Bilal Kazmi,"Hi OpenAlex hiring team,
+
+I saw your September backend opening for OpenAlex. Reliable APIs over a large research corpus are interesting to me, especially where they support both people and AI applications.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At JALTech, I built an internal RAG knowledge assistant and delivered React/Node PWAs serving more than 1,000 daily users. My background includes Python, SQL, AWS, and OpenAI/Gemini integrations, with responsibility for getting these capabilities into working applications.
+
+I would be interested in contributing Python APIs and database-backed services; I would also like to understand how much Databricks/PySpark experience is essential from day one.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+20,Colonist,Product Engineer,Full-time,Confirm country / hours,Remote and async; country eligibility unconfirmed,,2026-09-03,https://news.ycombinator.com/item?id=49550510,https://jobs.ashbyhq.com/colonist,Published application route; email not supplied,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed. September hiring signal: reconfirm the vacancy before applying. A visible post is not a guarantee that the role remains unfilled.,Unsent local draft,,HN — Product Engineer — Bilal Kazmi,"Hi Colonist hiring team,
+
+Your September Product Engineer post describes owning features end to end and shipping directly to a large player base. That level of product responsibility is what attracts me to the role.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At Dubicars, I built React seller subscription, onboarding, payment, and multi-step car-listing workflows integrated with a Laravel backend. I also worked on responsiveness, Core Web Vitals, and build size. That gave me experience improving a live marketplace across both product usability and integration details.
+
+I would be interested in bringing production React/Node experience and careful frontend performance work to your evolving multi-game platform.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+21,Interview Resources,Full Stack AI Engineer,Full-time,Confirm country / hours,Remote; country eligibility unconfirmed; advertised Oct 1 start has passed,,2026-09-02,https://news.ycombinator.com/item?id=49534032,https://www.interviewresources.app/careers,Published application route; email not supplied,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,"No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed. Employer requests the careers form and explicitly discourages email; Oct 1 target start has passed. Confirm vacancy, review sample reports yourself, and add your salary expectation before applying. September hiring signal: reconfirm the vacancy before applying. A visible post is not a guarantee that the role remains unfilled.",Unsent local draft,,HN — Full Stack AI Engineer — Bilal Kazmi,"Hi Interview Resources hiring team,
+
+I found your September Full Stack AI Engineer opening. Turning scattered interview information into structured, useful research is a strong match for my full-stack and retrieval application background.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At JALTech, I built an internal RAG knowledge assistant and delivered React/Node PWAs serving more than 1,000 daily users. My background includes Python, SQL, AWS, and OpenAI/Gemini integrations, with responsibility for getting these capabilities into working applications.
+
+If the engineering openings are still active, I would be interested in discussing the research pipeline and the Next.js experience around it.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+22,Deya,"Software Engineer, AI × Healthcare",Full-time,Confirm country / hours,NYC hybrid or remote; country eligibility unconfirmed,,2026-09-01,https://news.ycombinator.com/item?id=49528637,https://deya.health/careers/,Published application route; email not supplied,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed. September hiring signal: reconfirm the vacancy before applying. A visible post is not a guarantee that the role remains unfilled.,Unsent local draft,,"HN — Software Engineer, AI × Healthcare — Bilal Kazmi","Hi Deya hiring team,
+
+Your September software engineering post stood out because Deya needs product, backend, and AI workflows built together rather than separate prototypes.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At JALTech, I integrated Gemini Vision into receipt workflows processing roughly 1,000 receipts a day. The change reduced review time from about ten minutes to one minute. My work covered the application and backend pipeline, including concurrency and transaction handling, rather than just a model demo.
+
+I would be interested in the Next.js and backend role, bringing practical experience turning image inputs into reliable business workflows without claiming clinical model expertise.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+23,Shovels,Forward-Deployed Engineer,Full-time,Confirm country / hours,Remote stated; country eligibility unconfirmed,,2026-09-02,https://news.ycombinator.com/item?id=49530020,https://www.shovels.ai/careers/forward-deployed-engineer,Published application route; email not supplied,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed. September hiring signal: reconfirm the vacancy before applying. A visible post is not a guarantee that the role remains unfilled.,Unsent local draft,,HN — Forward-Deployed Engineer — Bilal Kazmi,"Hi Shovels hiring team,
+
+I saw your September FDE post about building working data products alongside enterprise customers. That combination of client communication and hands-on engineering fits how I have worked.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At Merik, I coordinated a team of three to five developers, reviewed pull requests, and took client work from requirements through deployment. I also built Node REST services on AWS EC2. More recently, I have shipped React/Node applications and AI-backed workflows at JALTech.
+
+I would be interested in taking customer requirements through implementation and feeding what we learn back into your product.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+24,Runway,"Backend Engineer, API",Full-time,Confirm country / hours,Remote role; country eligibility unconfirmed,,2026-10-02,https://news.ycombinator.com/item?id=49930066,https://jobs.ashbyhq.com/runway-ml/8489a08a-f0cf-4418-968c-c7c803d538bc,Published application route; email not supplied,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed.,Unsent local draft,,"HN — Backend Engineer, API — Bilal Kazmi","Hi Runway hiring team,
+
+Your October Backend Engineer, API opening caught my attention. I enjoy building the backend systems that make AI generation accessible through a reliable product.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). I built CloneVoicePrompt, a live voice-generation SaaS using Next.js, Node, MongoDB, Redis/BullMQ, and GPU inference workers. By optimizing Qwen3-TTS with CUDA graphs and chunked generation, I reduced GPU cost for 60 minutes of audio from about $0.50 to $0.09. You can see the product at https://clonevoiceprompt.online.
+
+I would be interested in discussing API engineering where inference workload coordination, production monitoring, and developer-facing reliability are central.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+25,Rootly,Engineering — AI applications / product,Full-time,Confirm country / hours,APAC and remote mentioned; exact role/country unconfirmed,,2026-10-01,https://news.ycombinator.com/item?id=49926195,https://rootly.com/careers,Published application route; email not supplied,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed.,Unsent local draft,,HN — Engineering — AI applications / product — Bilal Kazmi,"Hi Rootly hiring team,
+
+I saw your October post about engineering hiring across Rootly's incident response and AI SRE products. The practical application of AI to operational work is what drew me in.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At JALTech, I built an internal RAG knowledge assistant and delivered React/Node PWAs serving more than 1,000 daily users. My background includes Python, SQL, AWS, and OpenAI/Gemini integrations, with responsibility for getting these capabilities into working applications.
+
+Could we discuss the product or AI application engineering opening that best fits my React, Node, Python, and cloud background?
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+26,Sourcegraph,Software Engineer,Full-time,Confirm country / hours,Remote stated; role-specific country eligibility unconfirmed,,2026-10-01,https://news.ycombinator.com/item?id=49927984,https://grnh.se/0572f98b4us,Published application route; email not supplied,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed.,Unsent local draft,,HN — Software Engineer — Bilal Kazmi,"Hi Sourcegraph hiring team,
+
+Your October software engineering hiring post interested me because Sourcegraph is building the context that helps developers and AI tools work across large codebases.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At JALTech, I built an internal RAG knowledge assistant and delivered React/Node PWAs serving more than 1,000 daily users. My background includes Python, SQL, AWS, and OpenAI/Gemini integrations, with responsibility for getting these capabilities into working applications.
+
+I would be interested in bringing retrieval application and full-stack experience to product engineering around code context, rather than positioning myself as an ML researcher.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+27,SerpApi,Senior Fullstack Engineer,Full-time,Confirm country / hours,Remote; overseas compensation explicitly mentioned,,2026-10-02,https://news.ycombinator.com/item?id=49929200,https://serpapi.com/careers,Published application route; email not supplied,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed.,Unsent local draft,,HN — Senior Fullstack Engineer — Bilal Kazmi,"Hi SerpApi hiring team,
+
+I saw your October full-stack hiring post and its emphasis on async collaboration and continuous delivery. React and MongoDB are familiar parts of my production background.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At Dubicars, I built React seller subscription, onboarding, payment, and multi-step car-listing workflows integrated with a Laravel backend. I also worked on responsiveness, Core Web Vitals, and build size. That gave me experience improving a live marketplace across both product usability and integration details.
+
+I would be interested in discussing the full-stack work and the expectations for ramping into your Ruby/Rails backend; my primary backend experience is Node and Python.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+28,Puma.tech,AI/ML Engineering — application and inference focus,Full-time,Confirm country / hours,Remote-first; PST overlap; country eligibility unconfirmed,careers+hn@puma.tech,2026-09-01,https://news.ycombinator.com/item?id=49527118,https://puma.tech/,Published in employer hiring post,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,September hiring signal: reconfirm the vacancy before applying. A visible post is not a guarantee that the role remains unfilled.,Sent via Gmail — 2026-10-05 — verified in Sent mail,1a109c6ffe86adda,HN — AI/ML Engineering — application and inference focus — Bilal Kazmi,"Hi Yuriy,
+
+Your September post about PumaAI's private local/hybrid AI product caught my attention. The connection between inference performance and a useful user experience is work I enjoy.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). I built CloneVoicePrompt, a live voice-generation SaaS using Next.js, Node, MongoDB, Redis/BullMQ, and GPU inference workers. By optimizing Qwen3-TTS with CUDA graphs and chunked generation, I reduced GPU cost for 60 minutes of audio from about $0.50 to $0.09. You can see the product at https://clonevoiceprompt.online.
+
+I would be interested in application or inference engineering for PumaAI, and would like to understand which opening best fits a full-stack engineer with hands-on TTS optimization experience.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+29,Inferra,Applied AI Engineering,Full-time,Confirm country / hours,SF or remote; country eligibility unconfirmed,sasan@inferra.ai,2026-09-01,https://news.ycombinator.com/item?id=49525497,https://news.ycombinator.com/item?id=49525497,Published in employer hiring post,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,September hiring signal: reconfirm the vacancy before applying. A visible post is not a guarantee that the role remains unfilled.,Sent via Gmail — 2026-10-05 — verified in Sent mail,1a109c730e1cb719,HN — Applied AI Engineering — Bilal Kazmi,"Hi Sasan,
+
+Your September post mentioned optimizing AI workloads as well as building GPU infrastructure. The workload optimization side is particularly relevant to a product I built.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). I built CloneVoicePrompt, a live voice-generation SaaS using Next.js, Node, MongoDB, Redis/BullMQ, and GPU inference workers. By optimizing Qwen3-TTS with CUDA graphs and chunked generation, I reduced GPU cost for 60 minutes of audio from about $0.50 to $0.09. You can see the product at https://clonevoiceprompt.online.
+
+I would be interested in an applied AI or workload optimization role, while being clear that my background is product inference rather than bare-metal datacenter operations.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+30,Obi9,Full-Stack Engineer,Contract / full-time,Confirm country / hours,US time zones; 8 continuous hours within 8:30am–5pm ET required,,2026-09-11,https://news.ycombinator.com/item?id=49661611,https://obi9.ai/jobs/full-stack-engineer?tab=apply,Published application route; email not supplied,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed. September hiring signal: reconfirm the vacancy before applying. A visible post is not a guarantee that the role remains unfilled.,Unsent local draft,,HN — Full-Stack Engineer — Bilal Kazmi,"Hi Obi9 hiring team,
+
+Your September full-stack opening stood out because document intelligence is part of the product itself, not just an added chatbot.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At JALTech, I integrated Gemini Vision into receipt workflows processing roughly 1,000 receipts a day. The change reduced review time from about ten minutes to one minute. My work covered the application and backend pipeline, including concurrency and transaction handling, rather than just a model demo.
+
+I would be interested in building ingestion-backed product features and clear React interfaces. I would first need to discuss the eight-hour ET schedule and Pakistan eligibility.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+31,We The Flywheel,Agentic Engineer / Senior Agentic Engineer,Contract / part-time,Global / international stated,Worldwide remote stated; 10–40 hours/week,,2026-09-01,https://news.ycombinator.com/item?id=49522930,https://wetheflywheel.com/en/careers/?utm_source=hackernews&utm_medium=referral&utm_campaign=whoishiring-2026-09,Published application route; email not supplied,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed. September hiring signal: reconfirm the vacancy before applying. A visible post is not a guarantee that the role remains unfilled.,Unsent local draft,,HN — Agentic Engineer / Senior Agentic Engineer — Bilal Kazmi,"Hi We The Flywheel hiring team,
+
+Your September post listed agentic engineering roles alongside the studio's operations openings. I am interested specifically in building production web and AI systems.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At JALTech, I built an internal RAG knowledge assistant and delivered React/Node PWAs serving more than 1,000 daily users. My background includes Python, SQL, AWS, and OpenAI/Gemini integrations, with responsibility for getting these capabilities into working applications.
+
+I would be interested in contributing engineering capacity across your web properties and AI workflows; please let me know which engineering role remains open.
+
+Would you be open to a short conversation about the role? I can share my resume and walk through the relevant work, including the technical tradeoffs.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+32,Axmed,AI Engineer,Full-time,Confirm country / hours,Remote; Spain/UK/Poland/Romania preferred; Pakistan eligibility unconfirmed,,2026-09-02,https://news.ycombinator.com/item?id=49533274,https://axmed.teamtailor.com/jobs/8175859-ai-engineer,Published application route; email not supplied,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed. September hiring signal: reconfirm the vacancy before applying. A visible post is not a guarantee that the role remains unfilled.,Unsent local draft,,HN — AI Engineer — Bilal Kazmi,"Hi Axmed hiring team,
+
+I saw your September AI Engineer opening for marketplace workflows such as sourcing, quoting, and supplier follow-up. I like that the role is tied to real operations and human review.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At JALTech, I integrated Gemini Vision into receipt workflows processing roughly 1,000 receipts a day. The change reduced review time from about ten minutes to one minute. My work covered the application and backend pipeline, including concurrency and transaction handling, rather than just a model demo.
+
+I would be interested in bringing practical AI integration and backend experience to these workflows, and discussing your framework and deployment expectations.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+33,Fredrin,Forward Deployed Engineer,Full-time,Confirm country / hours,Remote stated; country eligibility unconfirmed,,2026-10-02,https://news.ycombinator.com/item?id=49934638,https://www.fredrin.com/careers/forward-deployed-engineer,Published application route; email not supplied,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed. Employer asks applicants to try Fredrin. Complete that yourself before applying; the draft does not claim you have tried it.,Unsent local draft,,HN — Forward Deployed Engineer — Bilal Kazmi,"Hi Fredrin hiring team,
+
+Your October FDE opening caught my attention because it combines customer engineering with product improvements around repositories, CI, and production adoption.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At Merik, I coordinated a team of three to five developers, reviewed pull requests, and took client work from requirements through deployment. I also built Node REST services on AWS EC2. More recently, I have shipped React/Node applications and AI-backed workflows at JALTech.
+
+I would be interested in bringing full-stack delivery and PR review experience to your customer deployments, and discussing the depth of coding-agent experience you need.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+34,DuckDuckGo,Senior Backend Engineer,Full-time,Confirm country / hours,Fully remote stated for this role; country eligibility unconfirmed,,2026-10-01,https://news.ycombinator.com/item?id=49924674,https://jobs.ashbyhq.com/duck-duck-go/53022b02-da3d-4fda-8273-c897d27ed50d?utm_source=1DKZJgG9d9,Published application route; email not supplied,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed.,Unsent local draft,,HN — Senior Backend Engineer — Bilal Kazmi,"Hi DuckDuckGo hiring team,
+
+I found your October Senior Backend Engineer opening. Reliable services with a clear user trust mission appeal to me.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At Gol, I worked on an AWS RDS-to-DynamoDB migration and modernization of legacy ERP functionality toward Lambda. Since then, I have built production React/Node applications and AI integrations, giving me experience connecting cloud changes to the product workflows they support.
+
+I would be interested in bringing production backend and cloud migration experience to the role, and learning more about the team's service stack and distributed systems requirements.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+35,Seeq,Senior Full-Stack Engineer,Full-time,Confirm country / hours,International remote mentioned; PST crossover; JVM skill gap,,2026-10-02,https://news.ycombinator.com/item?id=49929522,https://apply.workable.com/seeq/j/763AE68666/,Published application route; email not supplied,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed.,Unsent local draft,,HN — Senior Full-Stack Engineer — Bilal Kazmi,"Hi Seeq hiring team,
+
+Your October post includes a Senior Full-Stack opening combining React with data-rich industrial software. The product-facing side is a good match for my experience.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At Dubicars, I built React seller subscription, onboarding, payment, and multi-step car-listing workflows integrated with a Laravel backend. I also worked on responsiveness, Core Web Vitals, and build size. That gave me experience improving a live marketplace across both product usability and integration details.
+
+I would be interested in discussing the role and how important existing JVM experience is; my backend production work has primarily been Node and Python.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+36,PlantingSpace,Backend Software Engineer,Full-time,Conditional fit,Remote EU time zone; UTC+5 compatibility must be confirmed,,2026-10-02,https://news.ycombinator.com/item?id=49931033,https://planting.space/joinus/,Published application route; email not supplied,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed.,Unsent local draft,,HN — Backend Software Engineer — Bilal Kazmi,"Hi PlantingSpace hiring team,
+
+I saw your October backend hiring post about a knowledge system that keeps analysis transparent and consistent. Reliable knowledge-backed software is an area I want to keep working in.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At JALTech, I built an internal RAG knowledge assistant and delivered React/Node PWAs serving more than 1,000 daily users. My background includes Python, SQL, AWS, and OpenAI/Gemini integrations, with responsibility for getting these capabilities into working applications.
+
+I would be interested in discussing backend application work and the specific modeling or language requirements, alongside your EU time-zone expectations.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+37,cloro,Founding Engineer,Full-time,Conditional fit,Remote EU time zones; UTC+5 compatibility must be confirmed,,2026-09-02,https://news.ycombinator.com/item?id=49532259,https://cloro.dev/careers/founding-engineer/,Published application route; email not supplied,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed. September hiring signal: reconfirm the vacancy before applying. A visible post is not a guarantee that the role remains unfilled.,Unsent local draft,,HN — Founding Engineer — Bilal Kazmi,"Hi cloro hiring team,
+
+Your September Founding Engineer post caught my attention because cloro turns multiple search and AI providers into consistent structured results.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At JALTech, I integrated Gemini Vision into receipt workflows processing roughly 1,000 receipts a day. The change reduced review time from about ten minutes to one minute. My work covered the application and backend pipeline, including concurrency and transaction handling, rather than just a model demo.
+
+I would be interested in applying API integration and production pipeline experience to that backend, while discussing the collection infrastructure and EU hours you require.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+38,Mastra,Customer Engineer,Full-time,Conditional fit,AMER/EMEA time zones; EU or US response hours; Pakistan eligibility unconfirmed,,2026-09-02,https://news.ycombinator.com/item?id=49543632,https://jobs.ashbyhq.com/Mastra/05172cb0-47ec-44f9-9fe8-07d4896d10ad,Published application route; email not supplied,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed. September hiring signal: reconfirm the vacancy before applying. A visible post is not a guarantee that the role remains unfilled.,Unsent local draft,,HN — Customer Engineer — Bilal Kazmi,"Hi Mastra hiring team,
+
+I saw your September Customer Engineer post describing a role split between customer deployments and framework contributions. I enjoy closing that loop between a real customer's problem and shipped code.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At Merik, I coordinated a team of three to five developers, reviewed pull requests, and took client work from requirements through deployment. I also built Node REST services on AWS EC2. More recently, I have shipped React/Node applications and AI-backed workflows at JALTech.
+
+I would be interested in bringing TypeScript and client delivery experience to the team, and discussing the agent-building depth and response-time coverage you require.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+39,EggAI,Software Engineer,Contract / full-time,Conditional fit,EU-only remote advertised; eligibility exception or relocation needed,,2026-10-02,https://news.ycombinator.com/item?id=49931362,https://grnh.se/wr97lgu2teu,Published application route; email not supplied,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed.,Unsent local draft,,HN — Software Engineer — Bilal Kazmi,"Hi EggAI hiring team,
+
+Your October post describes a small consultancy building enterprise AI with engineers who understand both its strengths and limitations.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At JALTech, I built an internal RAG knowledge assistant and delivered React/Node PWAs serving more than 1,000 daily users. My background includes Python, SQL, AWS, and OpenAI/Gemini integrations, with responsibility for getting these capabilities into working applications.
+
+I would be interested in contributing production full-stack and AI integration work to your client projects. I noticed the EU restriction and would first like to clarify whether any suitable engagement can include an engineer based in Pakistan.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+40,BOSS-IQ,CTO Partner,Full-time partnership,Conditional fit,Worldwide remote; equity plus unspecified austerity salary; leadership stretch,ahmet@boss-iq.com,2026-09-07,https://news.ycombinator.com/item?id=49598051,https://boss-iq.com/cto-partner.html,Published in employer hiring post,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,"Partner role, not an ordinary client contract. Salary is unspecified and described as austere, plus equity. Clarify cash compensation and leadership fit first. September hiring signal: reconfirm the vacancy before applying. A visible post is not a guarantee that the role remains unfilled.",Sent via Gmail — 2026-10-05 — verified in Sent mail,1a109c7635916fa4,HN — CTO Partner — Bilal Kazmi,"Hi Ahmet,
+
+Your September CTO Partner post caught my attention because the stack combines Next.js, TypeScript, Redis/BullMQ, and a production AI product.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). I built CloneVoicePrompt, a live voice-generation SaaS using Next.js, Node, MongoDB, Redis/BullMQ, and GPU inference workers. By optimizing Qwen3-TTS with CUDA graphs and chunked generation, I reduced GPU cost for 60 minutes of audio from about $0.50 to $0.09. You can see the product at https://clonevoiceprompt.online.
+
+I would be interested in an exploratory conversation about technical ownership, the prompting requirements, and the salary/equity structure before considering a partnership.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+41,Odoo,Software Developer,Full-time,Onsite / relocation required,Belgium hybrid; visa and relocation support stated,,2026-10-04,https://news.ycombinator.com/item?id=49957336,https://www.odoo.com/r/4zN,Published application route; email not supplied,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed. Conditional prospect: user has not confirmed relocation willingness or work authorization. Draft does not assert either.,Unsent local draft,,HN — Software Developer — Bilal Kazmi,"Hi Odoo hiring team,
+
+I saw your October developer opening covering Python, PostgreSQL, JavaScript, and business applications. My experience with ERP modernization and full-stack products makes the work relevant to me.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At Gol, I worked on an AWS RDS-to-DynamoDB migration and modernization of legacy ERP functionality toward Lambda. Since then, I have built production React/Node applications and AI integrations, giving me experience connecting cloud changes to the product workflows they support.
+
+I would be interested in discussing a backend or web product team and understanding the Belgium relocation process before proceeding.
+
+Could we have an initial conversation to establish whether my experience and location could fit this opening? I can share my resume and discuss the project in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+42,Lovable,Full-Stack Engineer,Full-time,Onsite / relocation required,Stockholm/London in person; visas and relocation stated,,2026-10-02,https://news.ycombinator.com/item?id=49930260,https://lovable.dev/careers,Published application route; email not supplied,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed. Conditional prospect: user has not confirmed relocation willingness or work authorization. Draft does not assert either.,Unsent local draft,,HN — Full-Stack Engineer — Bilal Kazmi,"Hi Lovable hiring team,
+
+Your October post about building an agentic technical co-founder resonated with me as someone who has built and operated an AI product end to end.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). I built CloneVoicePrompt, a live voice-generation SaaS using Next.js, Node, MongoDB, Redis/BullMQ, and GPU inference workers. By optimizing Qwen3-TTS with CUDA graphs and chunked generation, I reduced GPU cost for 60 minutes of audio from about $0.50 to $0.09. You can see the product at https://clonevoiceprompt.online.
+
+I would be interested in full-stack product engineering, and would first like to understand the relocation arrangements and team expectations for London or Stockholm.
+
+Could we have an initial conversation to establish whether my experience and location could fit this opening? I can share my resume and discuss the project in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+43,Planlab.ai,Platform Engineer,Full-time,Onsite / relocation required,London onsite; visa sponsorship stated,,2026-10-01,https://news.ycombinator.com/item?id=49922693,https://planlab.ai/jobs,Published application route; email not supplied,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed. Conditional prospect: user has not confirmed relocation willingness or work authorization. Draft does not assert either.,Unsent local draft,,HN — Platform Engineer — Bilal Kazmi,"Hi Planlab.ai hiring team,
+
+I saw your October platform engineering opening for AI coworkers in project scheduling. The mixture of shared components, agents, infrastructure, and internal tooling interests me.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At JALTech, I built an internal RAG knowledge assistant and delivered React/Node PWAs serving more than 1,000 daily users. My background includes Python, SQL, AWS, and OpenAI/Gemini integrations, with responsibility for getting these capabilities into working applications.
+
+I would be interested in applying my backend and AI application experience, and learning more about the role's algorithmic requirements and London relocation process.
+
+Could we have an initial conversation to establish whether my experience and location could fit this opening? I can share my resume and discuss the project in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+44,Charly,AI Systems Engineer,Full-time,Onsite / relocation required,Berlin onsite only; sponsorship unconfirmed,info@zaitgeist.com,2026-10-02,https://news.ycombinator.com/item?id=49935697,https://hallocharly.de/en/careers/senior-ai-systems-engineer,Published in employer hiring post,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,Conditional prospect: user has not confirmed relocation willingness or work authorization. Draft does not assert either.,Sent via Gmail — 2026-10-05 — verified in Sent mail,1a109c7ca3ee0e48,HN — AI Systems Engineer — Bilal Kazmi,"Hi Charly team,
+
+Your October AI Systems Engineer opening caught my attention because Charly combines voice AI with practical public-service workflows.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). I built CloneVoicePrompt, a live voice-generation SaaS using Next.js, Node, MongoDB, Redis/BullMQ, and GPU inference workers. By optimizing Qwen3-TTS with CUDA graphs and chunked generation, I reduced GPU cost for 60 minutes of audio from about $0.50 to $0.09. You can see the product at https://clonevoiceprompt.online.
+
+I would be interested in discussing voice application engineering and operational reliability, while first clarifying the Berlin location and sponsorship requirements.
+
+Could we have an initial conversation to establish whether my experience and location could fit this opening? I can share my resume and discuss the project in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+45,Metcor,AI Engineer,Full-time,Onsite / relocation required,London hybrid; work authorization/sponsorship unconfirmed,,2026-10-02,https://news.ycombinator.com/item?id=49930470,https://metcorgroup-my.sharepoint.com/:u:/g/personal/janosch_oppermann_metcor_co_uk/IQDd6W4TpePUTKYnMJ1lEz36AbDvJMLb0vWfs1HRGB-XtfM,Published application route; email not supplied,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed. Conditional prospect: user has not confirmed relocation willingness or work authorization. Draft does not assert either.,Unsent local draft,,HN — AI Engineer — Bilal Kazmi,"Hi Metcor hiring team,
+
+I saw your October AI Engineer post about improving scheduling and preventing operational outages. Measuring the business outcome of an AI workflow is an approach I share.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At JALTech, I integrated Gemini Vision into receipt workflows processing roughly 1,000 receipts a day. The change reduced review time from about ten minutes to one minute. My work covered the application and backend pipeline, including concurrency and transaction handling, rather than just a model demo.
+
+I would be interested in bringing practical AI application and backend experience to your operations, and discussing the London hybrid and work-authorization requirements.
+
+Could we have an initial conversation to establish whether my experience and location could fit this opening? I can share my resume and discuss the project in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+46,Tandem Health,Software Engineer — product / AI applications,Full-time,Onsite / relocation required,Stockholm onsite; sponsorship unconfirmed,,2026-10-01,https://news.ycombinator.com/item?id=49926213,https://tandemhealth.ai/about/careers,Published application route; email not supplied,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed. Post publishes a questions-only contact and asks not to send applications there. Application route is used instead. Conditional prospect: user has not confirmed relocation willingness or work authorization. Draft does not assert either.,Unsent local draft,,HN — Software Engineer — product / AI applications — Bilal Kazmi,"Hi Tandem Health hiring team,
+
+I saw your October engineering hiring post about reducing clinical administration. The product engineering challenge of turning AI output into a useful workflow is particularly interesting to me.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At JALTech, I integrated Gemini Vision into receipt workflows processing roughly 1,000 receipts a day. The change reduced review time from about ten minutes to one minute. My work covered the application and backend pipeline, including concurrency and transaction handling, rather than just a model demo.
+
+I would be interested in a product or AI application role, while being clear that my background is operational software rather than clinical AI research. Could you clarify the Stockholm relocation requirements?
+
+Could we have an initial conversation to establish whether my experience and location could fit this opening? I can share my resume and discuss the project in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+47,Uncountable,Full-Stack Engineer,Full-time,Onsite / relocation required,London/Toronto/NY/SF in person; sponsorship unconfirmed,jason@uncountable.com,2026-10-01,https://news.ycombinator.com/item?id=49925904,https://www.uncountable.com/hiring/hn,Published in employer hiring post,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,Conditional prospect: user has not confirmed relocation willingness or work authorization. Draft does not assert either.,Sent via Gmail — 2026-10-05 — verified in Sent mail,1a109c80daa0417f,HN — Full-Stack Engineer — Bilal Kazmi,"Hi Jason,
+
+Your October full-stack opening stood out because engineers own a product used by scientists rather than isolated backend or frontend tickets.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At Dubicars, I built React seller subscription, onboarding, payment, and multi-step car-listing workflows integrated with a Laravel backend. I also worked on responsiveness, Core Web Vitals, and build size. That gave me experience improving a live marketplace across both product usability and integration details.
+
+I would be interested in helping build clear, performant workflows across your web platform, and learning which office and work-authorization arrangement could be appropriate.
+
+Could we have an initial conversation to establish whether my experience and location could fit this opening? I can share my resume and discuss the project in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+48,Prior Labs,"Full Stack Engineer, ML Platform",Full-time,Onsite / relocation required,Berlin/Freiburg/NYC onsite; sponsorship unconfirmed,,2026-10-02,https://news.ycombinator.com/item?id=49935497,https://jobs.ashbyhq.com/prior-labs,Published application route; email not supplied,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed. Conditional prospect: user has not confirmed relocation willingness or work authorization. Draft does not assert either.,Unsent local draft,,"HN — Full Stack Engineer, ML Platform — Bilal Kazmi","Hi Prior Labs hiring team,
+
+I saw your October Full Stack Engineer, ML Platform opening. React, TypeScript, Python/FastAPI, and PostgreSQL align well with my application engineering background.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). I built CloneVoicePrompt, a live voice-generation SaaS using Next.js, Node, MongoDB, Redis/BullMQ, and GPU inference workers. By optimizing Qwen3-TTS with CUDA graphs and chunked generation, I reduced GPU cost for 60 minutes of audio from about $0.50 to $0.09. You can see the product at https://clonevoiceprompt.online.
+
+I would be interested in the product layer around your models, rather than a foundation-model research role, and would like to discuss the office and sponsorship requirements.
+
+Could we have an initial conversation to establish whether my experience and location could fit this opening? I can share my resume and discuss the project in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+49,Fazeshift,Senior Software Engineer,Full-time,Onsite / relocation required,San Francisco onsite 5 days/week; sponsorship unconfirmed,chris.zehner@fazeshift.com,2026-10-01,https://news.ycombinator.com/item?id=49923384,https://news.ycombinator.com/item?id=49923384,Published in employer hiring post,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,Conditional prospect: user has not confirmed relocation willingness or work authorization. Draft does not assert either.,Sent via Gmail — 2026-10-05 — verified in Sent mail,1a109c841a48770f,HN — Senior Software Engineer — Bilal Kazmi,"Hi Chris,
+
+Your October post about AI agents working across accounts receivable systems caught my attention. I appreciate the emphasis on production judgment when external systems disagree.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At JALTech, I integrated Gemini Vision into receipt workflows processing roughly 1,000 receipts a day. The change reduced review time from about ten minutes to one minute. My work covered the application and backend pipeline, including concurrency and transaction handling, rather than just a model demo.
+
+I would be interested in contributing TypeScript/full-stack and practical AI workflow experience, while first discussing San Francisco location and sponsorship requirements.
+
+Could we have an initial conversation to establish whether my experience and location could fit this opening? I can share my resume and discuss the project in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"
+50,Hiya,Senior Backend Software Engineer,Full-time,Onsite / relocation required,Seattle hybrid 3 days/week; sponsorship unconfirmed,,2026-10-02,https://news.ycombinator.com/item?id=49929553,https://jobs.ashbyhq.com/hiya/2de4d41b-a919-48c4-9a6c-e0d4f3422318?utm_source=6YmR5zMkD0,Published application route; email not supplied,Employer-authored hiring post read on 2026-10-05; country/work authorization not independently guaranteed.,No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed. Conditional prospect: user has not confirmed relocation willingness or work authorization. Draft does not assert either.,Unsent local draft,,HN — Senior Backend Software Engineer — Bilal Kazmi,"Hi Hiya hiring team,
+
+I saw your October backend opening for the Communications Platform team. The TypeScript/Node and TTS portions connect with work I have shipped.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). I built CloneVoicePrompt, a live voice-generation SaaS using Next.js, Node, MongoDB, Redis/BullMQ, and GPU inference workers. By optimizing Qwen3-TTS with CUDA graphs and chunked generation, I reduced GPU cost for 60 minutes of audio from about $0.50 to $0.09. You can see the product at https://clonevoiceprompt.online.
+
+I would be interested in applying backend and voice product experience while learning the telecom stack; I would first need to understand Seattle location and sponsorship requirements.
+
+Could we have an initial conversation to establish whether my experience and location could fit this opening? I can share my resume and discuss the project in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi"

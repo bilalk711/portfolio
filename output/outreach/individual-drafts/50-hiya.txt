@@ -1,0 +1,23 @@
+Status: Unsent local draft
+To: [No public email: application route below]
+Subject: HN — Senior Backend Software Engineer — Bilal Kazmi
+Source: https://news.ycombinator.com/item?id=49929553
+Application: https://jobs.ashbyhq.com/hiya/2de4d41b-a919-48c4-9a6c-e0d4f3422318?utm_source=6YmR5zMkD0
+Review: Seattle hybrid 3 days/week; sponsorship unconfirmed No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed. Conditional prospect: user has not confirmed relocation willingness or work authorization. Draft does not assert either.
+
+Hi Hiya hiring team,
+
+I saw your October backend opening for the Communications Platform team. The TypeScript/Node and TTS portions connect with work I have shipped.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). I built CloneVoicePrompt, a live voice-generation SaaS using Next.js, Node, MongoDB, Redis/BullMQ, and GPU inference workers. By optimizing Qwen3-TTS with CUDA graphs and chunked generation, I reduced GPU cost for 60 minutes of audio from about $0.50 to $0.09. You can see the product at https://clonevoiceprompt.online.
+
+I would be interested in applying backend and voice product experience while learning the telecom stack; I would first need to understand Seattle location and sponsorship requirements.
+
+Could we have an initial conversation to establish whether my experience and location could fit this opening? I can share my resume and discuss the project in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi

@@ -1,0 +1,23 @@
+Status: Unsent local draft
+To: [No public email: application route below]
+Subject: HN — Backend Software Engineer — Bilal Kazmi
+Source: https://news.ycombinator.com/item?id=49931033
+Application: https://planting.space/joinus/
+Review: Remote EU time zone; UTC+5 compatibility must be confirmed No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed.
+
+Hi PlantingSpace hiring team,
+
+I saw your October backend hiring post about a knowledge system that keeps analysis transparent and consistent. Reliable knowledge-backed software is an area I want to keep working in.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At JALTech, I built an internal RAG knowledge assistant and delivered React/Node PWAs serving more than 1,000 daily users. My background includes Python, SQL, AWS, and OpenAI/Gemini integrations, with responsibility for getting these capabilities into working applications.
+
+I would be interested in discussing backend application work and the specific modeling or language requirements, alongside your EU time-zone expectations.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi

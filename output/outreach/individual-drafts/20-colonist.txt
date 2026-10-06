@@ -1,0 +1,23 @@
+Status: Unsent local draft
+To: [No public email: application route below]
+Subject: HN — Product Engineer — Bilal Kazmi
+Source: https://news.ycombinator.com/item?id=49550510
+Application: https://jobs.ashbyhq.com/colonist
+Review: Remote and async; country eligibility unconfirmed No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed. September hiring signal: reconfirm the vacancy before applying. A visible post is not a guarantee that the role remains unfilled.
+
+Hi Colonist hiring team,
+
+Your September Product Engineer post describes owning features end to end and shipping directly to a large player base. That level of product responsibility is what attracts me to the role.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At Dubicars, I built React seller subscription, onboarding, payment, and multi-step car-listing workflows integrated with a Laravel backend. I also worked on responsiveness, Core Web Vitals, and build size. That gave me experience improving a live marketplace across both product usability and integration details.
+
+I would be interested in bringing production React/Node experience and careful frontend performance work to your evolving multi-game platform.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi

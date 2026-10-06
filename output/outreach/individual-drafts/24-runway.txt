@@ -1,0 +1,23 @@
+Status: Unsent local draft
+To: [No public email: application route below]
+Subject: HN — Backend Engineer, API — Bilal Kazmi
+Source: https://news.ycombinator.com/item?id=49930066
+Application: https://jobs.ashbyhq.com/runway-ml/8489a08a-f0cf-4418-968c-c7c803d538bc
+Review: Remote role; country eligibility unconfirmed No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed.
+
+Hi Runway hiring team,
+
+Your October Backend Engineer, API opening caught my attention. I enjoy building the backend systems that make AI generation accessible through a reliable product.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). I built CloneVoicePrompt, a live voice-generation SaaS using Next.js, Node, MongoDB, Redis/BullMQ, and GPU inference workers. By optimizing Qwen3-TTS with CUDA graphs and chunked generation, I reduced GPU cost for 60 minutes of audio from about $0.50 to $0.09. You can see the product at https://clonevoiceprompt.online.
+
+I would be interested in discussing API engineering where inference workload coordination, production monitoring, and developer-facing reliability are central.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi

@@ -1,0 +1,23 @@
+Status: Unsent local draft
+To: [No public email: application route below]
+Subject: HN — Software Engineer — Bilal Kazmi
+Source: https://news.ycombinator.com/item?id=49931362
+Application: https://grnh.se/wr97lgu2teu
+Review: EU-only remote advertised; eligibility exception or relocation needed No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed.
+
+Hi EggAI hiring team,
+
+Your October post describes a small consultancy building enterprise AI with engineers who understand both its strengths and limitations.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At JALTech, I built an internal RAG knowledge assistant and delivered React/Node PWAs serving more than 1,000 daily users. My background includes Python, SQL, AWS, and OpenAI/Gemini integrations, with responsibility for getting these capabilities into working applications.
+
+I would be interested in contributing production full-stack and AI integration work to your client projects. I noticed the EU restriction and would first like to clarify whether any suitable engagement can include an engineer based in Pakistan.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi

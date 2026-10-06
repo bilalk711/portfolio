@@ -1,0 +1,174 @@
+{
+  "batch_id": "new-prospects-2026-10-06",
+  "sender": "bilalkazmi0711@gmail.com",
+  "timezone": "Asia/Karachi",
+  "created_at": "2026-10-06T02:43:00+05:00",
+  "authorization": "User explicitly requested finding new prospects and sending personalized emails at random intervals, without further approval.",
+  "state": "queued",
+  "automation_id": "paced-personalized-prospect-emails",
+  "daily_max": 3,
+  "minimum_gap_hours": 2,
+  "sending_window": "Monday-Friday, 09:00-19:00 Asia/Karachi",
+  "last_sent_at": null,
+  "excluded": [
+    {
+      "company": "Sidekick Labs",
+      "email": "eric+hn@sidekicklabs.com",
+      "reason": "Already sent in Gmail",
+      "message_id": "1a10d6fe0b407e91"
+    },
+    {
+      "email": "careers@codingsouls.com",
+      "reason": "Recent permanent address-not-found bounce"
+    },
+    {
+      "email": "careers@getbytecore.com",
+      "reason": "Recent permanent address-not-found bounce"
+    },
+    {
+      "company": "GetNextSite",
+      "reason": "Careers email domain differs from website and legal information contains placeholders; excluded rather than relying on an uncertain contact"
+    }
+  ],
+  "prospects": [
+    {
+      "id": "new-01",
+      "company": "Draxion",
+      "to": "careers@draxion.io",
+      "domains": [
+        "draxion.io"
+      ],
+      "role": "Senior Full-Stack Engineer (REQ-001)",
+      "engagement": "Full-time",
+      "source_url": "https://www.draxion.io/careers",
+      "source_checked": "2026-10-06",
+      "source_status": "Currently lists role as actively open; publication date not provided",
+      "location_note": "Remote, US hours. Email discloses Pakistan and asks about geographic eligibility and overlap.",
+      "scheduled_at": "2026-10-06T09:22:00+05:00",
+      "subject": "Senior Full-Stack Engineer (REQ-001) — Bilal Kazmi",
+      "body": "Hi Draxion team,\n\nYour Senior Full-Stack Engineer opening caught my attention because it combines TypeScript, Next.js and PostgreSQL with practical AI governance.\n\nI'm a senior full-stack engineer with 5+ years of experience across React, Next.js, Node.js, Python and AWS. At JAL Tech, I built React/Node applications serving 1,000+ daily users, an internal RAG assistant, and a Gemini Vision receipt workflow handling about 1,000 receipts per day that reduced review time from roughly ten minutes to one.\n\nI'd be interested in owning product features across your detection and reporting workflows. I'm based in Islamabad, Pakistan (UTC+5); could you confirm whether this location is eligible and the US-hours overlap you need?\n\nGitHub: https://github.com/bilalk711\nLinkedIn: https://www.linkedin.com/in/bilal-kazmi\n\nBest,\nBilal Kazmi",
+      "status": "drafted",
+      "draft_id": "r4028012627282121400",
+      "draft_message_id": "1a10e053a97774fc",
+      "html": "<p>Hi Draxion team,</p><p>Your Senior Full-Stack Engineer opening caught my attention because it combines TypeScript, Next.js and PostgreSQL with practical AI governance.</p><p>I'm a senior full-stack engineer with 5+ years of experience across React, Next.js, Node.js, Python and AWS. At JAL Tech, I built React/Node applications serving 1,000+ daily users, an internal RAG assistant, and a Gemini Vision receipt workflow handling about 1,000 receipts per day that reduced review time from roughly ten minutes to one.</p><p>I'd be interested in owning product features across your detection and reporting workflows. I'm based in Islamabad, Pakistan (UTC+5); could you confirm whether this location is eligible and the US-hours overlap you need?</p><p>GitHub: https://github.com/bilalk711<br>LinkedIn: https://www.linkedin.com/in/bilal-kazmi</p><p>Best,<br>Bilal Kazmi</p>",
+      "draft_verified": true
+    },
+    {
+      "id": "new-02",
+      "company": "Thunderclap",
+      "to": "careers@thunderclap.com",
+      "domains": [
+        "thunderclap.com"
+      ],
+      "role": "Full-Stack Engineer (Next.js / TypeScript)",
+      "engagement": "Full-time",
+      "source_url": "https://thunderclap.com/careers/",
+      "source_checked": "2026-10-06",
+      "source_status": "Currently open, worldwide remote; publication date not provided",
+      "location_note": "Asynchronous, some European hours overlap; location disclosed without promising working hours",
+      "scheduled_at": "2026-10-06T12:37:00+05:00",
+      "subject": "Full-Stack Engineer (Next.js / TypeScript) — Bilal Kazmi",
+      "body": "Hi Thunderclap team,\n\nYour storefront, checkout and customer-dashboard work looks closely aligned with what I've shipped. I also noticed the focus on mobile Core Web Vitals and preventing recurring build problems.\n\nI'm a senior full-stack engineer with 5+ years of experience in React, TypeScript, Next.js and Node.js. At Dubicars, I worked on subscription onboarding and payments, multi-step car-listing flows, Laravel integrations, and frontend performance and build-size improvements. More recently, I've built React/Node applications serving 1,000+ daily users and launched CloneVoicePrompt with Next.js, Node.js, MongoDB and Redis/BullMQ.\n\nI'd like to discuss your Full-Stack Engineer role and how I could contribute to reliable checkout and dashboard experiences. I'm based in Islamabad, Pakistan (UTC+5).\n\nGitHub: https://github.com/bilalk711\nLinkedIn: https://www.linkedin.com/in/bilal-kazmi\n\nBest,\nBilal Kazmi",
+      "status": "drafted",
+      "draft_id": "r-4806127652433651470",
+      "draft_message_id": "1a10e05468123357",
+      "html": "<p>Hi Thunderclap team,</p><p>Your storefront, checkout and customer-dashboard work looks closely aligned with what I've shipped. I also noticed the focus on mobile Core Web Vitals and preventing recurring build problems.</p><p>I'm a senior full-stack engineer with 5+ years of experience in React, TypeScript, Next.js and Node.js. At Dubicars, I worked on subscription onboarding and payments, multi-step car-listing flows, Laravel integrations, and frontend performance and build-size improvements. More recently, I've built React/Node applications serving 1,000+ daily users and launched CloneVoicePrompt with Next.js, Node.js, MongoDB and Redis/BullMQ.</p><p>I'd like to discuss your Full-Stack Engineer role and how I could contribute to reliable checkout and dashboard experiences. I'm based in Islamabad, Pakistan (UTC+5).</p><p>GitHub: https://github.com/bilalk711<br>LinkedIn: https://www.linkedin.com/in/bilal-kazmi</p><p>Best,<br>Bilal Kazmi</p>",
+      "draft_verified": true
+    },
+    {
+      "id": "new-03",
+      "company": "Findrix",
+      "to": "careers@findrix.ai",
+      "domains": [
+        "findrix.ai"
+      ],
+      "role": "Senior Frontend Engineer",
+      "engagement": "Full-time",
+      "source_url": "https://www.findrix.ai/careers",
+      "source_checked": "2026-10-06",
+      "source_status": "Currently open, global remote; publication date not provided",
+      "location_note": "Global remote",
+      "scheduled_at": "2026-10-06T16:04:00+05:00",
+      "subject": "Senior Frontend Engineer — dashboard and fix-preview work — Bilal Kazmi",
+      "body": "Hi Findrix team,\n\nI'm interested in your Senior Frontend Engineer opening, particularly making audit results and fix previews understandable enough for customers to act on them.\n\nI'm a senior full-stack engineer with 5+ years of experience across React, TypeScript, Next.js and Node.js. At Dubicars, I built subscription onboarding and multi-step listing experiences and improved frontend performance. At JAL Tech, I shipped applications serving 1,000+ daily users and a Gemini Vision receipt-review workflow that reduced review time from about ten minutes to one. That experience taught me to make AI output useful inside a clear user workflow.\n\nI'd welcome a conversation about your dashboard and preview interfaces. I'm based in Islamabad, Pakistan (UTC+5).\n\nGitHub: https://github.com/bilalk711\nLinkedIn: https://www.linkedin.com/in/bilal-kazmi\n\nBest,\nBilal Kazmi",
+      "status": "drafted",
+      "draft_id": "r-6715138661545030674",
+      "draft_message_id": "1a10e0551651ab38",
+      "html": "<p>Hi Findrix team,</p><p>I'm interested in your Senior Frontend Engineer opening, particularly making audit results and fix previews understandable enough for customers to act on them.</p><p>I'm a senior full-stack engineer with 5+ years of experience across React, TypeScript, Next.js and Node.js. At Dubicars, I built subscription onboarding and multi-step listing experiences and improved frontend performance. At JAL Tech, I shipped applications serving 1,000+ daily users and a Gemini Vision receipt-review workflow that reduced review time from about ten minutes to one. That experience taught me to make AI output useful inside a clear user workflow.</p><p>I'd welcome a conversation about your dashboard and preview interfaces. I'm based in Islamabad, Pakistan (UTC+5).</p><p>GitHub: https://github.com/bilalk711<br>LinkedIn: https://www.linkedin.com/in/bilal-kazmi</p><p>Best,<br>Bilal Kazmi</p>",
+      "draft_verified": true
+    },
+    {
+      "id": "new-04",
+      "company": "Zaby",
+      "to": "careers@zaby.ai",
+      "domains": [
+        "zaby.ai",
+        "zaby.io"
+      ],
+      "role": "Senior Frontend Engineer",
+      "engagement": "Full-time",
+      "source_url": "https://www.zaby.io/careers/fe-01",
+      "source_checked": "2026-10-06",
+      "source_status": "Current role on official careers site; public hiring email confirmed in indexed role page",
+      "location_note": "Official main careers page says worldwide remote",
+      "scheduled_at": "2026-10-07T09:43:00+05:00",
+      "subject": "Senior Frontend Engineer — operational AI interfaces — Bilal Kazmi",
+      "body": "Hi Zaby team,\n\nYour Senior Frontend Engineer role stood out because the Agent Builder and workflow interfaces connect frontend engineering directly to systems doing useful work.\n\nI'm a senior full-stack engineer with 5+ years of experience across React, TypeScript, Next.js and Node.js. My recent work includes applications serving 1,000+ daily users, an internal RAG assistant, and a Gemini Vision receipt-review workflow processing about 1,000 receipts per day. Previously at Dubicars, I built subscription onboarding and multi-step listing flows and worked on frontend performance.\n\nI'd be interested in bringing that product and AI application experience to your frontend team. I'm based in Islamabad, Pakistan (UTC+5), and would welcome a discussion about the role's frontend visualization requirements.\n\nGitHub: https://github.com/bilalk711\nLinkedIn: https://www.linkedin.com/in/bilal-kazmi\n\nBest,\nBilal Kazmi",
+      "status": "drafted",
+      "draft_id": "r-6146605121689646109",
+      "draft_message_id": "1a10e055fe0a08b0",
+      "html": "<p>Hi Zaby team,</p><p>Your Senior Frontend Engineer role stood out because the Agent Builder and workflow interfaces connect frontend engineering directly to systems doing useful work.</p><p>I'm a senior full-stack engineer with 5+ years of experience across React, TypeScript, Next.js and Node.js. My recent work includes applications serving 1,000+ daily users, an internal RAG assistant, and a Gemini Vision receipt-review workflow processing about 1,000 receipts per day. Previously at Dubicars, I built subscription onboarding and multi-step listing flows and worked on frontend performance.</p><p>I'd be interested in bringing that product and AI application experience to your frontend team. I'm based in Islamabad, Pakistan (UTC+5), and would welcome a discussion about the role's frontend visualization requirements.</p><p>GitHub: https://github.com/bilalk711<br>LinkedIn: https://www.linkedin.com/in/bilal-kazmi</p><p>Best,<br>Bilal Kazmi</p>",
+      "draft_verified": true
+    },
+    {
+      "id": "new-05",
+      "company": "Claws",
+      "to": "careers@claws.io",
+      "domains": [
+        "claws.io"
+      ],
+      "role": "Senior Full-Stack Engineer",
+      "engagement": "Full-time",
+      "source_url": "https://www.claws.io/careers",
+      "source_checked": "2026-10-06",
+      "source_status": "Currently open; publication date not provided",
+      "location_note": "EU/US time zones. Email asks about Pakistan eligibility and required overlap.",
+      "scheduled_at": "2026-10-07T13:12:00+05:00",
+      "subject": "Senior Full-Stack Engineer — console and orchestration — Bilal Kazmi",
+      "body": "Hi Claws team,\n\nYour Senior Full-Stack Engineer opening maps well to my experience building product interfaces alongside the services that run them. The TypeScript/Next.js console and Node/Mongo orchestration work particularly caught my attention.\n\nI have 5+ years of full-stack experience. I founded CloneVoicePrompt, using Next.js, Node.js, MongoDB, Redis/BullMQ, Cloudflare R2 and GPU workers. Optimizing Qwen3-TTS with chunked generation and CUDA graphs reduced GPU cost for an hour of generated audio from about $0.50 to $0.09. At JAL Tech, I also built production React/Node applications and an internal RAG assistant.\n\nI'm based in Islamabad, Pakistan (UTC+5). Is the role open to this location, and what EU/US overlap would you require?\n\nProject: https://clonevoiceprompt.online\nGitHub: https://github.com/bilalk711\n\nBest,\nBilal Kazmi",
+      "status": "drafted",
+      "draft_id": "r-6754432933226940188",
+      "draft_message_id": "1a10e056a0e1b59e",
+      "html": "<p>Hi Claws team,</p><p>Your Senior Full-Stack Engineer opening maps well to my experience building product interfaces alongside the services that run them. The TypeScript/Next.js console and Node/Mongo orchestration work particularly caught my attention.</p><p>I have 5+ years of full-stack experience. I founded CloneVoicePrompt, using Next.js, Node.js, MongoDB, Redis/BullMQ, Cloudflare R2 and GPU workers. Optimizing Qwen3-TTS with chunked generation and CUDA graphs reduced GPU cost for an hour of generated audio from about $0.50 to $0.09. At JAL Tech, I also built production React/Node applications and an internal RAG assistant.</p><p>I'm based in Islamabad, Pakistan (UTC+5). Is the role open to this location, and what EU/US overlap would you require?</p><p>Project: https://clonevoiceprompt.online<br>GitHub: https://github.com/bilalk711</p><p>Best,<br>Bilal Kazmi</p>",
+      "draft_verified": true
+    },
+    {
+      "id": "new-06",
+      "company": "Dentro",
+      "to": "careers@dentroai.com",
+      "domains": [
+        "dentroai.com"
+      ],
+      "role": "Speculative application: full-stack and AI delivery",
+      "engagement": "Contract or full-time inquiry",
+      "source_url": "https://dentroai.com/careers",
+      "source_checked": "2026-10-06",
+      "source_status": "Currently invites speculative applications; no specific engineering vacancy listed",
+      "location_note": "Worldwide remote, async",
+      "scheduled_at": "2026-10-07T17:26:00+05:00",
+      "subject": "Full-stack and AI delivery — speculative application — Bilal Kazmi",
+      "body": "Hi Dentro team,\n\nI saw that you welcome speculative applications and work on process automation and knowledge systems. I'd be interested in helping deliver those systems for your clients, on a contract or full-time basis.\n\nI'm a senior full-stack engineer with 5+ years of experience in React, Next.js, Node.js, Python and AWS. At JAL Tech, I built an internal RAG assistant and a Gemini Vision receipt workflow processing about 1,000 receipts per day, reducing review time from roughly ten minutes to one. I also founded CloneVoicePrompt and built its web application, queue infrastructure and GPU generation workers.\n\nIf you have upcoming delivery work suited to this background, could we discuss the scope? I'm based in Islamabad, Pakistan (UTC+5).\n\nGitHub: https://github.com/bilalk711\nProject: https://clonevoiceprompt.online\n\nBest,\nBilal Kazmi",
+      "status": "drafted",
+      "draft_id": "r4024681281733002656",
+      "draft_message_id": "1a10e0575a297747",
+      "html": "<p>Hi Dentro team,</p><p>I saw that you welcome speculative applications and work on process automation and knowledge systems. I'd be interested in helping deliver those systems for your clients, on a contract or full-time basis.</p><p>I'm a senior full-stack engineer with 5+ years of experience in React, Next.js, Node.js, Python and AWS. At JAL Tech, I built an internal RAG assistant and a Gemini Vision receipt workflow processing about 1,000 receipts per day, reducing review time from roughly ten minutes to one. I also founded CloneVoicePrompt and built its web application, queue infrastructure and GPU generation workers.</p><p>If you have upcoming delivery work suited to this background, could we discuss the scope? I'm based in Islamabad, Pakistan (UTC+5).</p><p>GitHub: https://github.com/bilalk711<br>Project: https://clonevoiceprompt.online</p><p>Best,<br>Bilal Kazmi</p>",
+      "draft_verified": true
+    }
+  ],
+  "baseline_bounce_ids": [
+    "1a10de6a8e2ba6c0",
+    "1a10de613eb02f3e"
+  ],
+  "draft_verified_at": "2026-10-06T02:44:00+05:00",
+  "scheduler_note": "Hourly checks during weekday daytime; each email is sent at the first eligible check after its randomized target time. Exact minute delivery is not guaranteed."
+}

@@ -1,0 +1,53 @@
+{
+  "prospects": [
+    {
+      "id": "expand-02",
+      "company": "Zinex Solutions",
+      "to": "hello@zinexsolutions.com",
+      "draft_id": "r5591588148781409286",
+      "draft_message_id": "1a10e309ab2b3a43"
+    },
+    {
+      "id": "expand-03",
+      "company": "Obble",
+      "to": "hello@obble.ai",
+      "draft_id": "r-7947585790557855455",
+      "draft_message_id": "1a10e30aa02e886b"
+    },
+    {
+      "id": "expand-04",
+      "company": "HAIRED",
+      "to": "careers@haired.app",
+      "draft_id": "r8181262942094778554",
+      "draft_message_id": "1a10e30b825e370a"
+    },
+    {
+      "id": "expand-05",
+      "company": "Hashtags Technology",
+      "to": "careers@hashtagstech.com",
+      "draft_id": "r4426586500792944813",
+      "draft_message_id": "1a10e30c1ad215ef"
+    },
+    {
+      "id": "expand-06",
+      "company": "Mailmark",
+      "to": "jobs@mailmark.dev",
+      "draft_id": "r-2111327538041327128",
+      "draft_message_id": "1a10e30c7fe56c7c"
+    },
+    {
+      "id": "expand-07",
+      "company": "LockedIn AI",
+      "to": "Careers@lockedinai.com",
+      "draft_id": "r-6273149352271766634",
+      "draft_message_id": "1a10e30cd4389388"
+    },
+    {
+      "id": "expand-08",
+      "company": "Techzone Media",
+      "to": "careers@techzonemedia.com",
+      "draft_id": "r-7951981745986085484",
+      "draft_message_id": "1a10e30d10a8eca8"
+    }
+  ]
+}

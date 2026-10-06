@@ -1,0 +1,23 @@
+Status: Sent via Gmail — 2026-10-05 — verified in Sent mail
+To: hannah@namespacelabs.com
+Subject: HN — Product Engineer / Customer-Facing Software Engineer — Bilal Kazmi
+Source: https://news.ycombinator.com/item?id=49923784
+Application: https://namespace.so/careers
+Review: Remote available; country eligibility unconfirmed 
+
+Hi Hannah,
+
+I found your October hiring post for product and customer-facing software engineers. I enjoy working where infrastructure needs to become a clear, useful product for engineering teams.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At Merik, I coordinated a team of three to five developers, reviewed pull requests, and took client work from requirements through deployment. I also built Node REST services on AWS EC2. More recently, I have shipped React/Node applications and AI-backed workflows at JALTech.
+
+I would be interested in bringing full-stack implementation and client delivery experience to the interfaces and integrations around your infrastructure platform.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi

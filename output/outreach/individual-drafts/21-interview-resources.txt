@@ -1,0 +1,23 @@
+Status: Unsent local draft
+To: [No public email: application route below]
+Subject: HN — Full Stack AI Engineer — Bilal Kazmi
+Source: https://news.ycombinator.com/item?id=49534032
+Application: https://www.interviewresources.app/careers
+Review: Remote; country eligibility unconfirmed; advertised Oct 1 start has passed No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed. Employer requests the careers form and explicitly discourages email; Oct 1 target start has passed. Confirm vacancy, review sample reports yourself, and add your salary expectation before applying. September hiring signal: reconfirm the vacancy before applying. A visible post is not a guarantee that the role remains unfilled.
+
+Hi Interview Resources hiring team,
+
+I found your September Full Stack AI Engineer opening. Turning scattered interview information into structured, useful research is a strong match for my full-stack and retrieval application background.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At JALTech, I built an internal RAG knowledge assistant and delivered React/Node PWAs serving more than 1,000 daily users. My background includes Python, SQL, AWS, and OpenAI/Gemini integrations, with responsibility for getting these capabilities into working applications.
+
+If the engineering openings are still active, I would be interested in discussing the research pipeline and the Next.js experience around it.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi

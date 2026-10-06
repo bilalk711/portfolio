@@ -1,0 +1,23 @@
+Status: Unsent local draft
+To: [No public email: application route below]
+Subject: HN — Customer Engineer — Bilal Kazmi
+Source: https://news.ycombinator.com/item?id=49543632
+Application: https://jobs.ashbyhq.com/Mastra/05172cb0-47ec-44f9-9fe8-07d4896d10ad
+Review: AMER/EMEA time zones; EU or US response hours; Pakistan eligibility unconfirmed No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed. September hiring signal: reconfirm the vacancy before applying. A visible post is not a guarantee that the role remains unfilled.
+
+Hi Mastra hiring team,
+
+I saw your September Customer Engineer post describing a role split between customer deployments and framework contributions. I enjoy closing that loop between a real customer's problem and shipped code.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At Merik, I coordinated a team of three to five developers, reviewed pull requests, and took client work from requirements through deployment. I also built Node REST services on AWS EC2. More recently, I have shipped React/Node applications and AI-backed workflows at JALTech.
+
+I would be interested in bringing TypeScript and client delivery experience to the team, and discussing the agent-building depth and response-time coverage you require.
+
+If my experience fits, could you confirm whether this opportunity can include an engineer based in Pakistan and what working-hour overlap you need? I can share my resume and discuss the work in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi

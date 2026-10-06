@@ -1,0 +1,23 @@
+Status: Sent via Gmail — 2026-10-05 — verified in Sent mail
+To: jason@uncountable.com
+Subject: HN — Full-Stack Engineer — Bilal Kazmi
+Source: https://news.ycombinator.com/item?id=49925904
+Application: https://www.uncountable.com/hiring/hn
+Review: London/Toronto/NY/SF in person; sponsorship unconfirmed Conditional prospect: user has not confirmed relocation willingness or work authorization. Draft does not assert either.
+
+Hi Jason,
+
+Your October full-stack opening stood out because engineers own a product used by scientists rather than isolated backend or frontend tickets.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At Dubicars, I built React seller subscription, onboarding, payment, and multi-step car-listing workflows integrated with a Laravel backend. I also worked on responsiveness, Core Web Vitals, and build size. That gave me experience improving a live marketplace across both product usability and integration details.
+
+I would be interested in helping build clear, performant workflows across your web platform, and learning which office and work-authorization arrangement could be appropriate.
+
+Could we have an initial conversation to establish whether my experience and location could fit this opening? I can share my resume and discuss the project in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi

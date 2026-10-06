@@ -1,0 +1,23 @@
+Status: Unsent local draft
+To: [No public email: application route below]
+Subject: HN — Software Developer — Bilal Kazmi
+Source: https://news.ycombinator.com/item?id=49957336
+Application: https://www.odoo.com/r/4zN
+Review: Belgium hybrid; visa and relocation support stated No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed. Conditional prospect: user has not confirmed relocation willingness or work authorization. Draft does not assert either.
+
+Hi Odoo hiring team,
+
+I saw your October developer opening covering Python, PostgreSQL, JavaScript, and business applications. My experience with ERP modernization and full-stack products makes the work relevant to me.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At Gol, I worked on an AWS RDS-to-DynamoDB migration and modernization of legacy ERP functionality toward Lambda. Since then, I have built production React/Node applications and AI integrations, giving me experience connecting cloud changes to the product workflows they support.
+
+I would be interested in discussing a backend or web product team and understanding the Belgium relocation process before proceeding.
+
+Could we have an initial conversation to establish whether my experience and location could fit this opening? I can share my resume and discuss the project in more detail.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi

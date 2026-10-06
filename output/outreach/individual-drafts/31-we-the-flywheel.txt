@@ -1,0 +1,23 @@
+Status: Unsent local draft
+To: [No public email: application route below]
+Subject: HN — Agentic Engineer / Senior Agentic Engineer — Bilal Kazmi
+Source: https://news.ycombinator.com/item?id=49522930
+Application: https://wetheflywheel.com/en/careers/?utm_source=hackernews&utm_medium=referral&utm_campaign=whoishiring-2026-09
+Review: Worldwide remote stated; 10–40 hours/week No application email published in the reviewed post. Use the linked application route; this email-style draft can be adapted into a cover note. No address was guessed. September hiring signal: reconfirm the vacancy before applying. A visible post is not a guarantee that the role remains unfilled.
+
+Hi We The Flywheel hiring team,
+
+Your September post listed agentic engineering roles alongside the studio's operations openings. I am interested specifically in building production web and AI systems.
+
+I am a senior full-stack engineer with 5+ years of experience, based in Islamabad, Pakistan (UTC+5). At JALTech, I built an internal RAG knowledge assistant and delivered React/Node PWAs serving more than 1,000 daily users. My background includes Python, SQL, AWS, and OpenAI/Gemini integrations, with responsibility for getting these capabilities into working applications.
+
+I would be interested in contributing engineering capacity across your web properties and AI workflows; please let me know which engineering role remains open.
+
+Would you be open to a short conversation about the role? I can share my resume and walk through the relevant work, including the technical tradeoffs.
+
+Best,
+Bilal Kazmi
+Senior Full Stack Engineer | AI Applications
+bilalkazmi0711@gmail.com
+GitHub: https://github.com/bilalk711
+LinkedIn: https://www.linkedin.com/in/bilal-kazmi
