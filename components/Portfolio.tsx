@@ -56,17 +56,25 @@ export default function Portfolio() {
         <p className="eyebrow"><span className="live-dot" /> SENIOR FULL STACK ENGINEER <span>/</span> APPLIED AI</p>
         <h1>{profile.headline[0]}<br />{profile.headline[1]}</h1>
         <p className="hero-summary">{profile.summary}</p>
-        <div className="hero-actions"><a className="primary-action magnetic" href="#selected-work" onPointerMove={magnetic} onPointerLeave={resetMagnet}>Explore my work <ArrowRightIcon /></a><a className="contact-action magnetic" href={`mailto:${profile.email}`} onPointerMove={magnetic} onPointerLeave={resetMagnet}>Get in touch <ArrowTopRightIcon /></a></div>
+        <div className="hero-actions"><a className="primary-action magnetic" href="#services" onPointerMove={magnetic} onPointerLeave={resetMagnet}>How I can help <ArrowRightIcon /></a><a className="contact-action magnetic" href={`mailto:${profile.email}`} onPointerMove={magnetic} onPointerLeave={resetMagnet}>Get in touch <ArrowTopRightIcon /></a></div>
         <div className="focus-row">{profile.focus.map((focus,index)=><button key={focus} onClick={()=>{setSelected(index);open("expertise");}}>{focus}</button>)}</div>
       </div>
       <div className="portrait-caption" aria-hidden="true"><span>01 / HUMAN AT THE CORE</span><span>ALWAYS IN THE MAKING.</span></div>
       <footer className="hero-footer"><span>ISLAMABAD, PK <span className="footer-divider">/</span> WORKING WORLDWIDE</span><a className="selected-work" href="#assembly"><ChevronDownIcon /></a><span className="scene-hint">MOVE TO EXPLORE · CLICK TO ENERGIZE</span></footer>
     </section>
+    <section className="service-offers" id="services" aria-labelledby="services-title" inert={introActive}>
+      <p className="eyebrow">A PRACTICAL PLACE TO START</p><h2 id="services-title">What needs to work?</h2>
+      <p className="services-intro">Start with one useful result. We define the scope before agreeing a quote or delivery date.</p>
+      <div className="service-grid">{profile.services.map(service=><article className="service-card" key={service.tag}>
+        <p className="eyebrow">{service.tag}</p><h3>{service.name}</h3><p>{service.detail}</p><p className="service-milestone">{service.milestone}</p>
+        <a href={`mailto:${profile.email}?subject=${encodeURIComponent("Project enquiry: "+service.name)}&body=${encodeURIComponent("Here is what I need help with:\n\nCurrent stack or system:\n\nWhat is failing or missing:\n\nThe result I need:\n\nBudget and target date, if known:\n")}`}>Discuss this project <ArrowTopRightIcon /></a>
+      </article>)}</div>
+    </section>
     <section className="assembly-journey" id="assembly" aria-labelledby="assembly-title" inert={introActive}>
       <div className="assembly-sticky"><div className="assembly-copy"><p className="eyebrow">02 / CONNECTING THE PIECES</p><h2 id="assembly-title">Complexity,<br /><em>composed.</em></h2><p>A great product is more than its parts. I connect thoughtful interfaces, dependable systems and useful AI into one coherent experience.</p><div className="assembly-steps"><span><i>01</i> Shape the idea</span><span><i>02</i> Build the system</span><span><i>03</i> Ship with confidence</span></div><a href="#selected-work" className="assembly-link">See what the pieces become <ArrowRightIcon /></a></div><div className="cube-caption" aria-hidden="true"><span>SCROLL TO ASSEMBLE</span><span>27 PARTS. ONE SYSTEM.</span></div></div>
     </section>
     <section className="selected-projects" id="selected-work" aria-labelledby="work-heading" inert={introActive}>
-      <div className="proof-strip reveal-on-scroll"><div><strong>5+</strong><span>YEARS BUILDING</span></div><div><strong>+50</strong><span>APPLICATIONS/SYSTEMS</span></div><div><strong>100%</strong><span>CLIENT SATISFACTION</span></div></div>
+      <div className="proof-strip reveal-on-scroll"><div><strong>5+</strong><span>YEARS BUILDING</span></div><div><strong>1,000+</strong><span>PWA USERS SERVED</span></div><div><strong>10 → 1 min</strong><span>RECEIPT REVIEW TIME</span></div></div>
       <div className="work-heading reveal-on-scroll"><p className="eyebrow">SELECTED WORK / 01—04</p><h2 id="work-heading">Built to solve.<br />Made to ship.</h2><p>From customer-facing platforms to AI workflows, here’s how I turn technical challenges into working software.</p></div>
       <div className="case-grid">{profile.projects.map((project,index)=><article className="case-card reveal-on-scroll" key={project.name} onPointerMove={tilt} onPointerLeave={event=>{event.currentTarget.style.setProperty("--rx","0deg");event.currentTarget.style.setProperty("--ry","0deg");}}>
         <div className="case-top"><span>0{index+1}</span><span>{project.category}</span><ArrowTopRightIcon /></div>
@@ -74,7 +82,7 @@ export default function Portfolio() {
         {project.url?<a className="case-link" href={project.url} target="_blank" rel="noopener noreferrer">Explore live project <ArrowTopRightIcon /></a>:<span className="internal-project">Internal project · JALTech</span>}
       </article>)}</div>
       <div className="client-contact reveal-on-scroll"><div><p className="eyebrow">LET’S BUILD SOMETHING USEFUL</p><h2>Your next idea<br />starts here.</h2><p>Tell me what you’re building, the challenge you’re facing and where you’d like to take it.</p></div><a className="primary-action magnetic" href={`mailto:${profile.email}?subject=${encodeURIComponent("Let’s discuss my project")}`} onPointerMove={magnetic} onPointerLeave={resetMagnet}>Get in touch <ArrowTopRightIcon /></a></div>
-      <footer className="page-footer"><span>© {new Date().getFullYear()} Bilal Kazmi</span><a href={`mailto:${profile.email}`}>{profile.email}</a><a href="#" aria-label="Back to top">Back to top ↑</a></footer>
+      <footer className="page-footer"><span>© {new Date().getFullYear()} Bilal Kazmi</span><a href={`mailto:${profile.email}`}>{profile.email}</a><a href="https://github.com/bilalk711" target="_blank" rel="noopener noreferrer">GitHub</a><a href="https://www.linkedin.com/in/bilal-kazmi/" target="_blank" rel="noopener noreferrer">LinkedIn</a><a href="#" aria-label="Back to top">Back to top ↑</a></footer>
     </section>
     <dialog ref={dialog} className="portfolio-dialog" aria-labelledby="panel-title" onCancel={()=>setPanel(null)} onClose={()=>setPanel(null)} onClick={event=>{if(event.target===event.currentTarget)setPanel(null);}}>
       <div className="panel-content"><button className="close-panel" aria-label="Close panel" autoFocus onClick={()=>setPanel(null)}><Cross1Icon /></button>
