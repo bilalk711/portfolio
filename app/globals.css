@@ -120,3 +120,16 @@ button:focus-visible,a:focus-visible,input:focus-visible { outline:2px solid whi
   .magnetic,.project-card { transform:none!important; }
 }
 
+.service-offers { position:relative; padding:90px max(24px,7vw); background:#101010; scroll-margin-top:30px; }
+.service-offers h2 { font-size:clamp(36px,5vw,64px); line-height:1.05; letter-spacing:-.045em; margin:18px 0; }
+.services-intro { max-width:630px; color:#b2b2b2; line-height:1.7; }
+.service-grid { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:22px; margin-top:38px; }
+.service-card { padding:28px; border:1px solid #363636; display:flex; flex-direction:column; }
+.service-card h3 { font-size:24px; line-height:1.25; margin:12px 0 18px; }
+.service-card>p:not(.eyebrow) { color:#b2b2b2; font-size:15px; line-height:1.65; }
+.service-card .service-milestone { padding-top:18px; border-top:1px solid #363636; }
+.service-card>a { margin-top:auto; padding-top:22px; display:flex; align-items:center; gap:12px; font-size:14px; text-decoration:underline; text-underline-offset:5px; }
+.service-card>a svg { flex-shrink:0; }
+.service-card>a:focus-visible { outline:2px solid currentColor; outline-offset:6px; }
+@media(max-width:950px) { .service-grid { grid-template-columns:1fr; } .service-offers { padding-top:60px; padding-bottom:60px; } }
+
